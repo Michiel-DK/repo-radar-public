@@ -1,0 +1,89 @@
+name: daily-radar
+
+# Fetches GitHub trending + demand signals, commits the raw snapshot to master,
+# and pushes. Runs on GitHub's infra so it fires regardless of whether any local
+# machine is awake.
+#
+# Summarization is intentionally NOT here. Open `claude` in the repo to write
+# digests/<date>.md when you want a human-readable report.
+#
+# Secrets (Settings → Secrets and variables → Actions):
+#   REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET  — optional; without them the Reddit
+#                                              demand source is skipped (HN always runs).
+#   SLACK_WEBHOOK_URL                         — optional; only used if you enable
+#                                              the deterministic --from-data post below.
+# GITHUB_TOKEN is provided automatically and is used both for the trending API
+# (authenticated → higher rate limit) and for pushing the commit.
+
+on:
+  schedule:
+    # 06:00 UTC = 08:00 Brussels in summer (CEST, UTC+2); 07:00 in winter (CET,
+    # UTC+1). GitHub cron is UTC-only and has no DST, so the local time drifts by
+    # an hour across the year — fine for a daily snapshot. Note: scheduled runs
+    # can be delayed minutes-to-tens-of-minutes under GitHub load, and are paused
+    # after 60 days with no repo activity (a snapshot commit/day keeps it alive).
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}  # manual "Run workflow" button for catch-up / testing
+
+# Don't let a slow run overlap the next scheduled one.
+concurrency:
+  group: daily-radar
+  cancel-in-progress: false
+
+permissions:
+  contents: write  # needed to push the snapshot commit back to master
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          # default persist-credentials:true lets the later `git push` use GITHUB_TOKEN
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Fetch trending + compute trends
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/fetch_trending.py
+          python3 scripts/compute_trends.py
+
+      - name: Fetch demand signals (best-effort)
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        # HN always runs; Reddit only if the secrets above are set. Don't abort the
+        # run if a flaky external API fails after trending already succeeded.
+        run: python3 scripts/fetch_problems.py || echo "[warn] fetch_problems failed; continuing"
+
+      - name: Commit & push snapshot
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "[info] no data changes — nothing to commit"
+            exit 0
+          fi
+          git commit -m "Daily data: $(date -u +%F) — github trending snapshot [skip ci]"
+          git push origin HEAD:master
+          echo "[ok] pushed snapshot for $(date -u +%F) to master"
+
+      # OPTIONAL — uncomment for a hands-off, deterministic morning Slack post
+      # (top movers straight from data/, no LLM). Requires the SLACK_WEBHOOK_URL secret.
+      # - name: Post top movers to Slack
+      #   if: ${{ env.SLACK_WEBHOOK_URL != '' }}
+      #   env:
+      #     SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      #   run: python3 scripts/notify_slack.py --from-data

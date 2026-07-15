@@ -27,7 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DAILY_DIR = ROOT / "data" / "daily"
 LANGUAGES = ["", "python", "typescript", "rust", "go"]  # "" = overall
 TRENDING_URL = "https://github.com/trending/{lang}?since=daily"
-USER_AGENT = "repo-radar/0.1 (+https://github.com/Michiel-DK/repo-radar)"
+USER_AGENT = "repo-radar/0.1 (+https://github.com/Michiel-DK/repo-radar-public)"
 README_MAX_CHARS = 2000
 
 

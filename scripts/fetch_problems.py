@@ -12,7 +12,7 @@ Sources
   stories and comments. No auth, no key. ALWAYS ON.
 - **Reddit** (OAuth script app) — vertical + builder subreddits, top posts +
   pain-phrase search. Needs REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET env vars
-  (free; one-time app registration — see progress.md). Skipped if unset.
+  (free; register a "script" app at https://www.reddit.com/prefs/apps). Skipped if unset.
 - **Upwork** — NOT implemented. The public job feed is hard-blocked (HTTP 403);
   it's partner-API-only. See `UPWORK_NOTE` below for the realistic options.
 
@@ -144,7 +144,7 @@ def fetch_reddit(per_sub=10):
     secret = os.environ.get("REDDIT_CLIENT_SECRET")
     if not (cid and secret):
         print("[reddit] REDDIT_CLIENT_ID/SECRET not set — skipping "
-              "(see progress.md for one-time app setup)")
+              "(register a script app at https://www.reddit.com/prefs/apps)")
         return []
 
     # OAuth2 client-credentials (script app).

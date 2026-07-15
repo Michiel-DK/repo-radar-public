@@ -10,8 +10,6 @@ name: daily-radar
 # Secrets (Settings → Secrets and variables → Actions):
 #   REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET  — optional; without them the Reddit
 #                                              demand source is skipped (HN always runs).
-#   SLACK_WEBHOOK_URL                         — optional; only used if you enable
-#                                              the deterministic --from-data post below.
 # GITHUB_TOKEN is provided automatically and is used both for the trending API
 # (authenticated → higher rate limit) and for pushing the commit.
 
@@ -79,11 +77,3 @@ jobs:
           git commit -m "Daily data: $(date -u +%F) — github trending snapshot [skip ci]"
           git push origin HEAD:master
           echo "[ok] pushed snapshot for $(date -u +%F) to master"
-
-      # OPTIONAL — uncomment for a hands-off, deterministic morning Slack post
-      # (top movers straight from data/, no LLM). Requires the SLACK_WEBHOOK_URL secret.
-      # - name: Post top movers to Slack
-      #   if: ${{ env.SLACK_WEBHOOK_URL != '' }}
-      #   env:
-      #     SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-      #   run: python3 scripts/notify_slack.py --from-data

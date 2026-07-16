@@ -28,6 +28,8 @@ digests/
 scripts/
   fetch_trending.py        # scrape trending + enrich each repo via the GitHub API
   compute_trends.py        # diff today against history, write rolling/seen artifacts
+  fetch_problems.py        # demand signals (HN always; Reddit if secrets set)
+  fetch_traction.py        # experimental TrustMRR revenue signal; not wired into the daily cron
 ```
 
 ## Conventions
@@ -56,7 +58,7 @@ When starting a new project, skim `INDEX.md` for matches against the project's s
 4. `python3 scripts/fetch_problems.py` (best-effort) — HN demand signals → `data/problems/YYYY-MM-DD.jsonl`.
 5. Commits to `master`, pushes via the built-in `GITHUB_TOKEN`.
 
-No paid API keys needed — uses `GITHUB_TOKEN` for the API. Optional repo secrets: `REDDIT_CLIENT_ID`/`REDDIT_CLIENT_SECRET` (Reddit demand source), `SLACK_WEBHOOK_URL` (optional morning post).
+No paid API keys needed — uses `GITHUB_TOKEN` for the API. Optional repo secrets: `REDDIT_CLIENT_ID`/`REDDIT_CLIENT_SECRET` (Reddit demand source).
 
 ### Human-paced half — `claude` in the repo when you want a digest
 
@@ -71,7 +73,7 @@ python3 scripts/compute_trends.py      # <1s
 python3 scripts/fetch_problems.py      # HN (+ Reddit if secrets set)
 ```
 
-Uses `gh auth token` for the GitHub API (5000 req/hr; a run uses ~80).
+Uses `gh auth token` for the GitHub API (5000 req/hr; a run uses ~170 — two calls per repo across ~80 trending repos — well under the limit).
 
 ### Cron controls
 

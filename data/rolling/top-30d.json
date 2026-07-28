@@ -1,230 +1,277 @@
 {
-  "generated_at": "2026-07-27T07:14:47.560886+00:00",
-  "today": "2026-07-27",
+  "generated_at": "2026-07-28T06:57:41.967604+00:00",
+  "today": "2026-07-28",
   "window_days": 30,
-  "snapshot_count": 45,
-  "total_repos_today": 87,
+  "snapshot_count": 46,
+  "total_repos_today": 80,
   "newcomers": [
     {
-      "slug": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars": 50927,
-      "stars_today": 413,
-      "stars_gained_window": 413,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "permissionlesstech/bitchat-android",
-      "url": "https://github.com/permissionlesstech/bitchat-android",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Kotlin",
-      "stars": 6840,
-      "stars_today": 260,
-      "stars_gained_window": 260,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "EvanZhouDev/openai-oauth",
-      "url": "https://github.com/EvanZhouDev/openai-oauth",
-      "description": "Free AI with your ChatGPT account",
+      "slug": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "stars": 975,
-      "stars_today": 79,
-      "stars_gained_window": 79,
+      "stars": 2908,
+      "stars_today": 420,
+      "stars_gained_window": 420,
       "days_in_window": 1,
-      "first_seen": "2026-07-27",
+      "first_seen": "2026-07-28",
       "days_seen": 1,
       "sources": [
+        "overall",
         "lang:typescript"
       ]
     },
     {
-      "slug": "jgravelle/jcodemunch-mcp",
-      "url": "https://github.com/jgravelle/jcodemunch-mcp",
-      "description": "Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved.",
+      "slug": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars": 2263,
-      "stars_today": 45,
-      "stars_gained_window": 45,
+      "stars": 69540,
+      "stars_today": 113,
+      "stars_gained_window": 113,
       "days_in_window": 1,
-      "first_seen": "2026-07-27",
+      "first_seen": "2026-07-28",
       "days_seen": 1,
       "sources": [
         "lang:python"
       ]
     },
     {
-      "slug": "Lightning-AI/litgpt",
-      "url": "https://github.com/Lightning-AI/litgpt",
-      "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
-      "language": "Python",
-      "stars": 13583,
-      "stars_today": 39,
-      "stars_gained_window": 39,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "nodejs/node",
-      "url": "https://github.com/nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "JavaScript",
-      "stars": 118524,
-      "stars_today": 36,
-      "stars_gained_window": 36,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "amnezia-vpn/amnezia-client",
-      "url": "https://github.com/amnezia-vpn/amnezia-client",
-      "description": "Amnezia VPN Client (Desktop+Mobile)",
-      "language": "C++",
-      "stars": 13461,
-      "stars_today": 35,
-      "stars_gained_window": 35,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "kepano/defuddle",
-      "url": "https://github.com/kepano/defuddle",
-      "description": "Get the main content of any page as Markdown.",
-      "language": "TypeScript",
-      "stars": 8612,
-      "stars_today": 28,
-      "stars_gained_window": 28,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "jenkinsci/jenkins",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "stars": 25765,
-      "stars_today": 18,
-      "stars_gained_window": 18,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "therealaleph/MasterHttpRelayVPN-RUST",
-      "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
-      "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
+      "slug": "AprilNEA/OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
-      "stars": 3659,
-      "stars_today": 18,
-      "stars_gained_window": 18,
+      "stars": 7746,
+      "stars_today": 108,
+      "stars_gained_window": 108,
       "days_in_window": 1,
-      "first_seen": "2026-07-27",
+      "first_seen": "2026-07-28",
       "days_seen": 1,
       "sources": [
         "lang:rust"
       ]
     },
     {
-      "slug": "sirkirby/unifi-mcp",
-      "url": "https://github.com/sirkirby/unifi-mcp",
-      "description": "MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive",
-      "language": "Python",
-      "stars": 593,
-      "stars_today": 15,
-      "stars_gained_window": 15,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "ikemen-engine/Ikemen-GO",
-      "url": "https://github.com/ikemen-engine/Ikemen-GO",
-      "description": "An open-source fighting game engine that supports MUGEN resources.",
-      "language": "Go",
-      "stars": 1455,
-      "stars_today": 8,
-      "stars_gained_window": 8,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "lang:go"
-      ]
-    },
-    {
-      "slug": "zzet/gortex",
-      "url": "https://github.com/zzet/gortex",
-      "description": "High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/ysC2prTGD",
-      "language": "Go",
-      "stars": 959,
-      "stars_today": 8,
-      "stars_gained_window": 8,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "lang:go"
-      ]
-    },
-    {
-      "slug": "davepoon/buildwithclaude",
-      "url": "https://github.com/davepoon/buildwithclaude",
-      "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
+      "slug": "lightningpixel/modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
       "language": "TypeScript",
-      "stars": 3222,
-      "stars_today": 6,
-      "stars_gained_window": 6,
+      "stars": 4735,
+      "stars_today": 102,
+      "stars_gained_window": 102,
       "days_in_window": 1,
-      "first_seen": "2026-07-27",
+      "first_seen": "2026-07-28",
       "days_seen": 1,
       "sources": [
         "lang:typescript"
       ]
     },
     {
-      "slug": "quic-go/quic-go",
-      "url": "https://github.com/quic-go/quic-go",
-      "description": "A production-ready QUIC implementation in pure Go",
+      "slug": "benbjohnson/litestream",
+      "url": "https://github.com/benbjohnson/litestream",
+      "description": "Streaming replication for SQLite.",
       "language": "Go",
-      "stars": 11725,
+      "stars": 14087,
+      "stars_today": 66,
+      "stars_gained_window": 66,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:go"
+      ]
+    },
+    {
+      "slug": "freenet/freenet-core",
+      "url": "https://github.com/freenet/freenet-core",
+      "description": "Declare your digital independence",
+      "language": "Rust",
+      "stars": 2938,
+      "stars_today": 65,
+      "stars_gained_window": 65,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": 16632,
+      "stars_today": 60,
+      "stars_gained_window": 60,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "ocornut/imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars": 75263,
+      "stars_today": 51,
+      "stars_gained_window": 51,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "overall"
+      ]
+    },
+    {
+      "slug": "calfonso/rusternetes",
+      "url": "https://github.com/calfonso/rusternetes",
+      "description": "kubernetes, reimplemented in Rust",
+      "language": "Rust",
+      "stars": 669,
+      "stars_today": 51,
+      "stars_gained_window": 51,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "language": "Python",
+      "stars": 18138,
+      "stars_today": 48,
+      "stars_gained_window": 48,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "edoardottt/cariddi",
+      "url": "https://github.com/edoardottt/cariddi",
+      "description": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
+      "language": "Go",
+      "stars": 3600,
+      "stars_today": 28,
+      "stars_gained_window": 28,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:go"
+      ]
+    },
+    {
+      "slug": "black-ant/Ant-Browser",
+      "url": "https://github.com/black-ant/Ant-Browser",
+      "description": "指纹浏览器",
+      "language": "Go",
+      "stars": 1466,
+      "stars_today": 24,
+      "stars_gained_window": 24,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:go"
+      ]
+    },
+    {
+      "slug": "huggingface/candle",
+      "url": "https://github.com/huggingface/candle",
+      "description": "Minimalist ML framework for Rust",
+      "language": "Rust",
+      "stars": 20770,
+      "stars_today": 22,
+      "stars_gained_window": 22,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "xpzouying/xiaohongshu-mcp",
+      "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "description": "MCP for xiaohongshu.com",
+      "language": "Go",
+      "stars": 14893,
+      "stars_today": 18,
+      "stars_gained_window": 18,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:go"
+      ]
+    },
+    {
+      "slug": "vudovn/ag-kit",
+      "url": "https://github.com/vudovn/ag-kit",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 8022,
+      "stars_today": 14,
+      "stars_gained_window": 14,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "overall",
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "apache/cassandra",
+      "url": "https://github.com/apache/cassandra",
+      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "language": "Java",
+      "stars": 10007,
+      "stars_today": 11,
+      "stars_gained_window": 11,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "overall"
+      ]
+    },
+    {
+      "slug": "autobrr/qui",
+      "url": "https://github.com/autobrr/qui",
+      "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+      "language": "Go",
+      "stars": 4262,
+      "stars_today": 11,
+      "stars_gained_window": 11,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:go"
+      ]
+    },
+    {
+      "slug": "WireGuard/wireguard-go",
+      "url": "https://github.com/WireGuard/wireguard-go",
+      "description": "Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go",
+      "language": "Go",
+      "stars": 4313,
       "stars_today": 4,
       "stars_gained_window": 4,
       "days_in_window": 1,
-      "first_seen": "2026-07-27",
+      "first_seen": "2026-07-28",
       "days_seen": 1,
       "sources": [
         "lang:go"
@@ -233,47 +280,47 @@
   ],
   "climbers": [
     {
-      "slug": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars": 13758,
-      "stars_today": 1710,
-      "stars_gained_window": 12885,
-      "days_in_window": 5,
-      "first_seen": "2026-07-23",
-      "days_seen": 5,
-      "sources": [
-        "overall",
-        "lang:rust"
-      ]
-    },
-    {
       "slug": "permissionlesstech/bitchat",
       "url": "https://github.com/permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
-      "stars": 30985,
-      "stars_today": 1166,
-      "stars_gained_window": 2886,
-      "days_in_window": 2,
+      "stars": 32625,
+      "stars_today": 2346,
+      "stars_gained_window": 5232,
+      "days_in_window": 3,
       "first_seen": "2026-07-26",
-      "days_seen": 2,
+      "days_seen": 3,
       "sources": [
         "overall"
       ]
     },
     {
-      "slug": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "slug": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 15145,
+      "stars_today": 979,
+      "stars_gained_window": 3650,
+      "days_in_window": 6,
+      "first_seen": "2026-07-23",
+      "days_seen": 6,
+      "sources": [
+        "overall",
+        "lang:go"
+      ]
+    },
+    {
+      "slug": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars": 5031,
-      "stars_today": 900,
-      "stars_gained_window": 3013,
-      "days_in_window": 4,
-      "first_seen": "2026-07-24",
-      "days_seen": 4,
+      "stars": 51814,
+      "stars_today": 847,
+      "stars_gained_window": 1260,
+      "days_in_window": 2,
+      "first_seen": "2026-07-27",
+      "days_seen": 2,
       "sources": [
         "overall"
       ]
@@ -283,229 +330,13 @@
       "url": "https://github.com/CoreBunch/Instatic",
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. ",
       "language": "TypeScript",
-      "stars": 5872,
-      "stars_today": 888,
-      "stars_gained_window": 2553,
-      "days_in_window": 6,
-      "first_seen": "2026-07-01",
-      "days_seen": 6,
-      "sources": [
-        "overall",
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars": 14161,
-      "stars_today": 832,
-      "stars_gained_window": 2671,
-      "days_in_window": 5,
-      "first_seen": "2026-07-23",
-      "days_seen": 5,
-      "sources": [
-        "overall",
-        "lang:go"
-      ]
-    },
-    {
-      "slug": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars": 70980,
-      "stars_today": 440,
-      "stars_gained_window": 2853,
-      "days_in_window": 9,
-      "first_seen": "2026-07-07",
-      "days_seen": 9,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "language": "Python",
-      "stars": 10217,
-      "stars_today": 417,
-      "stars_gained_window": 738,
-      "days_in_window": 3,
-      "first_seen": "2026-07-02",
-      "days_seen": 3,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars": 50927,
-      "stars_today": 413,
-      "stars_gained_window": 413,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "OtterMind/Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "language": "Java",
-      "stars": 27284,
-      "stars_today": 398,
-      "stars_gained_window": 840,
-      "days_in_window": 3,
-      "first_seen": "2026-07-25",
-      "days_seen": 3,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars": 50368,
-      "stars_today": 379,
-      "stars_gained_window": 1383,
-      "days_in_window": 5,
-      "first_seen": "2026-07-10",
-      "days_seen": 5,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "stars": 10114,
-      "stars_today": 338,
-      "stars_gained_window": 1866,
+      "stars": 6297,
+      "stars_today": 674,
+      "stars_gained_window": 3227,
       "days_in_window": 7,
-      "first_seen": "2026-07-20",
+      "first_seen": "2026-07-01",
       "days_seen": 7,
       "sources": [
-        "overall",
-        "lang:rust"
-      ]
-    },
-    {
-      "slug": "Automattic/harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "language": "Rust",
-      "stars": 13658,
-      "stars_today": 327,
-      "stars_gained_window": 2330,
-      "days_in_window": 4,
-      "first_seen": "2026-07-24",
-      "days_seen": 4,
-      "sources": [
-        "lang:rust"
-      ]
-    },
-    {
-      "slug": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars": 34291,
-      "stars_today": 321,
-      "stars_gained_window": 1677,
-      "days_in_window": 5,
-      "first_seen": "2026-06-15",
-      "days_seen": 7,
-      "sources": [
-        "overall",
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "permissionlesstech/bitchat-android",
-      "url": "https://github.com/permissionlesstech/bitchat-android",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Kotlin",
-      "stars": 6840,
-      "stars_today": 260,
-      "stars_gained_window": 260,
-      "days_in_window": 1,
-      "first_seen": "2026-07-27",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "Zackriya-Solutions/meetily",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
-      "language": "Rust",
-      "stars": 26886,
-      "stars_today": 191,
-      "stars_gained_window": 8559,
-      "days_in_window": 8,
-      "first_seen": "2026-07-03",
-      "days_seen": 8,
-      "sources": [
-        "lang:rust"
-      ]
-    },
-    {
-      "slug": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers ",
-      "language": "Python",
-      "stars": 15464,
-      "stars_today": 187,
-      "stars_gained_window": 264,
-      "days_in_window": 2,
-      "first_seen": "2026-06-14",
-      "days_seen": 6,
-      "sources": [
-        "overall",
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars": 14296,
-      "stars_today": 162,
-      "stars_gained_window": 4647,
-      "days_in_window": 5,
-      "first_seen": "2026-06-26",
-      "days_seen": 7,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "stars": 15152,
-      "stars_today": 149,
-      "stars_gained_window": 927,
-      "days_in_window": 6,
-      "first_seen": "2026-07-13",
-      "days_seen": 6,
-      "sources": [
-        "overall",
         "lang:typescript"
       ]
     },
@@ -514,122 +345,338 @@
       "url": "https://github.com/yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
-      "stars": 20416,
-      "stars_today": 131,
-      "stars_gained_window": 1797,
-      "days_in_window": 7,
+      "stars": 21060,
+      "stars_today": 600,
+      "stars_gained_window": 2397,
+      "days_in_window": 8,
       "first_seen": "2026-07-02",
-      "days_seen": 7,
+      "days_seen": 8,
       "sources": [
         "overall",
         "lang:go"
       ]
     },
     {
-      "slug": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "slug": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars": 17119,
-      "stars_today": 116,
-      "stars_gained_window": 470,
-      "days_in_window": 2,
-      "first_seen": "2026-06-23",
-      "days_seen": 5,
-      "sources": [
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "fqscfqj/Y2A-Auto",
-      "url": "https://github.com/fqscfqj/Y2A-Auto",
-      "description": "YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控",
-      "language": "Python",
-      "stars": 2547,
-      "stars_today": 108,
-      "stars_gained_window": 319,
-      "days_in_window": 2,
-      "first_seen": "2026-07-10",
-      "days_seen": 2,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "language": "Python",
-      "stars": 34734,
-      "stars_today": 102,
-      "stars_gained_window": 282,
-      "days_in_window": 2,
-      "first_seen": "2026-07-26",
-      "days_seen": 2,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agent-native applications.",
-      "language": "TypeScript",
-      "stars": 4070,
-      "stars_today": 89,
-      "stars_gained_window": 89,
-      "days_in_window": 1,
-      "first_seen": "2026-06-23",
-      "days_seen": 3,
-      "sources": [
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "Crosstalk-Solutions/project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "stars": 34856,
-      "stars_today": 85,
-      "stars_gained_window": 759,
-      "days_in_window": 5,
+      "stars": 44283,
+      "stars_today": 572,
+      "stars_gained_window": 1744,
+      "days_in_window": 6,
       "first_seen": "2026-06-08",
-      "days_seen": 10,
-      "sources": [
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "stars": 176960,
-      "stars_today": 83,
-      "stars_gained_window": 628,
-      "days_in_window": 7,
-      "first_seen": "2026-06-10",
       "days_seen": 8,
       "sources": [
+        "overall",
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "amnezia-vpn/amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "language": "C++",
+      "stars": 13992,
+      "stars_today": 515,
+      "stars_gained_window": 550,
+      "days_in_window": 2,
+      "first_seen": "2026-07-27",
+      "days_seen": 2,
+      "sources": [
+        "overall"
+      ]
+    },
+    {
+      "slug": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 45079,
+      "stars_today": 507,
+      "stars_gained_window": 10523,
+      "days_in_window": 9,
+      "first_seen": "2026-06-29",
+      "days_seen": 9,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 34665,
+      "stars_today": 441,
+      "stars_gained_window": 2118,
+      "days_in_window": 6,
+      "first_seen": "2026-06-15",
+      "days_seen": 8,
+      "sources": [
+        "overall",
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 11390,
+      "stars_today": 434,
+      "stars_gained_window": 3863,
+      "days_in_window": 6,
+      "first_seen": "2026-06-24",
+      "days_seen": 7,
+      "sources": [
+        "overall",
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars": 2908,
+      "stars_today": 420,
+      "stars_gained_window": 420,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "overall",
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 18153,
+      "stars_today": 412,
+      "stars_gained_window": 425,
+      "days_in_window": 2,
+      "first_seen": "2026-06-11",
+      "days_seen": 6,
+      "sources": [
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 58539,
+      "stars_today": 362,
+      "stars_gained_window": 362,
+      "days_in_window": 1,
+      "first_seen": "2026-06-26",
+      "days_seen": 4,
+      "sources": [
+        "overall",
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 10228,
+      "stars_today": 308,
+      "stars_gained_window": 2174,
+      "days_in_window": 8,
+      "first_seen": "2026-07-20",
+      "days_seen": 8,
+      "sources": [
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 54347,
+      "stars_today": 240,
+      "stars_gained_window": 2223,
+      "days_in_window": 6,
+      "first_seen": "2026-06-08",
+      "days_seen": 11,
+      "sources": [
+        "overall",
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "stars": 34747,
+      "stars_today": 231,
+      "stars_gained_window": 1933,
+      "days_in_window": 10,
+      "first_seen": "2026-06-08",
+      "days_seen": 15,
+      "sources": [
         "lang:go"
+      ]
+    },
+    {
+      "slug": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
+      "language": "Rust",
+      "stars": 27066,
+      "stars_today": 204,
+      "stars_gained_window": 8763,
+      "days_in_window": 9,
+      "first_seen": "2026-07-03",
+      "days_seen": 9,
+      "sources": [
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "language": "TypeScript",
+      "stars": 384380,
+      "stars_today": 188,
+      "stars_gained_window": 1145,
+      "days_in_window": 6,
+      "first_seen": "2026-07-03",
+      "days_seen": 6,
+      "sources": [
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers ",
+      "language": "Python",
+      "stars": 15544,
+      "stars_today": 185,
+      "stars_gained_window": 449,
+      "days_in_window": 3,
+      "first_seen": "2026-06-14",
+      "days_seen": 7,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars": 25926,
+      "stars_today": 180,
+      "stars_gained_window": 198,
+      "days_in_window": 2,
+      "first_seen": "2026-07-27",
+      "days_seen": 2,
+      "sources": [
+        "overall"
+      ]
+    },
+    {
+      "slug": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "language": "TypeScript",
+      "stars": 66313,
+      "stars_today": 172,
+      "stars_gained_window": 1034,
+      "days_in_window": 6,
+      "first_seen": "2026-07-03",
+      "days_seen": 6,
+      "sources": [
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "XiaoYouChR/Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "description": "An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.",
+      "language": "Python",
+      "stars": 7502,
+      "stars_today": 125,
+      "stars_gained_window": 290,
+      "days_in_window": 3,
+      "first_seen": "2026-07-08",
+      "days_seen": 3,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": 119057,
+      "stars_today": 121,
+      "stars_gained_window": 385,
+      "days_in_window": 4,
+      "first_seen": "2026-06-23",
+      "days_seen": 10,
+      "sources": [
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": 69540,
+      "stars_today": 113,
+      "stars_gained_window": 113,
+      "days_in_window": 1,
+      "first_seen": "2026-07-28",
+      "days_seen": 1,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 109015,
+      "stars_today": 111,
+      "stars_gained_window": 1566,
+      "days_in_window": 5,
+      "first_seen": "2026-06-14",
+      "days_seen": 7,
+      "sources": [
+        "lang:typescript"
       ]
     }
   ],
   "persisters": [
     {
-      "slug": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "language": "Rust",
-      "stars": 35479,
-      "stars_today": 55,
-      "stars_gained_window": 1221,
-      "days_in_window": 9,
-      "first_seen": "2026-06-15",
-      "days_seen": 14,
+      "slug": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "stars": 34747,
+      "stars_today": 231,
+      "stars_gained_window": 1933,
+      "days_in_window": 10,
+      "first_seen": "2026-06-08",
+      "days_seen": 15,
       "sources": [
-        "lang:rust"
+        "lang:go"
       ]
     },
     {
@@ -637,14 +684,30 @@
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
-      "stars": 114876,
-      "stars_today": 32,
-      "stars_gained_window": 887,
+      "stars": 114906,
+      "stars_today": 46,
+      "stars_gained_window": 883,
       "days_in_window": 10,
       "first_seen": "2026-06-15",
-      "days_seen": 14,
+      "days_seen": 15,
       "sources": [
         "lang:rust"
+      ]
+    },
+    {
+      "slug": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 54347,
+      "stars_today": 240,
+      "stars_gained_window": 2223,
+      "days_in_window": 6,
+      "first_seen": "2026-06-08",
+      "days_seen": 11,
+      "sources": [
+        "overall",
+        "lang:python"
       ]
     },
     {
@@ -652,12 +715,12 @@
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars": 34856,
-      "stars_today": 85,
-      "stars_gained_window": 759,
-      "days_in_window": 5,
+      "stars": 34998,
+      "stars_today": 88,
+      "stars_gained_window": 847,
+      "days_in_window": 6,
       "first_seen": "2026-06-08",
-      "days_seen": 10,
+      "days_seen": 11,
       "sources": [
         "lang:typescript"
       ]
@@ -667,29 +730,29 @@
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": 51769,
-      "stars_today": 64,
-      "stars_gained_window": 488,
-      "days_in_window": 7,
+      "stars": 51833,
+      "stars_today": 83,
+      "stars_gained_window": 571,
+      "days_in_window": 8,
       "first_seen": "2026-06-08",
-      "days_seen": 10,
+      "days_seen": 11,
       "sources": [
         "lang:rust"
       ]
     },
     {
-      "slug": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "stars": 70980,
-      "stars_today": 440,
-      "stars_gained_window": 2853,
-      "days_in_window": 9,
-      "first_seen": "2026-07-07",
-      "days_seen": 9,
+      "slug": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": 119057,
+      "stars_today": 121,
+      "stars_gained_window": 385,
+      "days_in_window": 4,
+      "first_seen": "2026-06-23",
+      "days_seen": 10,
       "sources": [
-        "lang:python"
+        "lang:rust"
       ]
     },
     {
@@ -697,12 +760,12 @@
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
-      "stars": 34383,
-      "stars_today": 41,
-      "stars_gained_window": 427,
-      "days_in_window": 7,
+      "stars": 34433,
+      "stars_today": 51,
+      "stars_gained_window": 478,
+      "days_in_window": 8,
       "first_seen": "2026-06-23",
-      "days_seen": 9,
+      "days_seen": 10,
       "sources": [
         "lang:go"
       ]
@@ -712,14 +775,29 @@
       "url": "https://github.com/biomejs/biome",
       "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
       "language": "Rust",
-      "stars": 25406,
-      "stars_today": 22,
-      "stars_gained_window": 139,
-      "days_in_window": 4,
+      "stars": 25421,
+      "stars_today": 21,
+      "stars_gained_window": 160,
+      "days_in_window": 5,
       "first_seen": "2026-06-08",
-      "days_seen": 9,
+      "days_seen": 10,
       "sources": [
         "lang:rust"
+      ]
+    },
+    {
+      "slug": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 45079,
+      "stars_today": 507,
+      "stars_gained_window": 10523,
+      "days_in_window": 9,
+      "first_seen": "2026-06-29",
+      "days_seen": 9,
+      "sources": [
+        "lang:python"
       ]
     },
     {
@@ -727,121 +805,14 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
-      "stars": 26886,
-      "stars_today": 191,
-      "stars_gained_window": 8559,
-      "days_in_window": 8,
+      "stars": 27066,
+      "stars_today": 204,
+      "stars_gained_window": 8763,
+      "days_in_window": 9,
       "first_seen": "2026-07-03",
-      "days_seen": 8,
+      "days_seen": 9,
       "sources": [
         "lang:rust"
-      ]
-    },
-    {
-      "slug": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "stars": 176960,
-      "stars_today": 83,
-      "stars_gained_window": 628,
-      "days_in_window": 7,
-      "first_seen": "2026-06-10",
-      "days_seen": 8,
-      "sources": [
-        "lang:go"
-      ]
-    },
-    {
-      "slug": "golang/go",
-      "url": "https://github.com/golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "stars": 135401,
-      "stars_today": 27,
-      "stars_gained_window": 515,
-      "days_in_window": 6,
-      "first_seen": "2026-06-17",
-      "days_seen": 8,
-      "sources": [
-        "lang:go"
-      ]
-    },
-    {
-      "slug": "prometheus/prometheus",
-      "url": "https://github.com/prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "stars": 65323,
-      "stars_today": 18,
-      "stars_gained_window": 300,
-      "days_in_window": 5,
-      "first_seen": "2026-06-23",
-      "days_seen": 8,
-      "sources": [
-        "lang:go"
-      ]
-    },
-    {
-      "slug": "swc-project/swc",
-      "url": "https://github.com/swc-project/swc",
-      "description": "Rust-based platform for the Web",
-      "language": "Rust",
-      "stars": 34148,
-      "stars_today": 6,
-      "stars_gained_window": 113,
-      "days_in_window": 4,
-      "first_seen": "2026-06-14",
-      "days_seen": 8,
-      "sources": [
-        "lang:rust"
-      ]
-    },
-    {
-      "slug": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "stars": 10114,
-      "stars_today": 338,
-      "stars_gained_window": 1866,
-      "days_in_window": 7,
-      "first_seen": "2026-07-20",
-      "days_seen": 7,
-      "sources": [
-        "overall",
-        "lang:rust"
-      ]
-    },
-    {
-      "slug": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars": 34291,
-      "stars_today": 321,
-      "stars_gained_window": 1677,
-      "days_in_window": 5,
-      "first_seen": "2026-06-15",
-      "days_seen": 7,
-      "sources": [
-        "overall",
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "language": "Python",
-      "stars": 14296,
-      "stars_today": 162,
-      "stars_gained_window": 4647,
-      "days_in_window": 5,
-      "first_seen": "2026-06-26",
-      "days_seen": 7,
-      "sources": [
-        "lang:python"
       ]
     },
     {
@@ -849,60 +820,77 @@
       "url": "https://github.com/yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
-      "stars": 20416,
-      "stars_today": 131,
-      "stars_gained_window": 1797,
-      "days_in_window": 7,
+      "stars": 21060,
+      "stars_today": 600,
+      "stars_gained_window": 2397,
+      "days_in_window": 8,
       "first_seen": "2026-07-02",
-      "days_seen": 7,
+      "days_seen": 8,
       "sources": [
         "overall",
         "lang:go"
       ]
     },
     {
-      "slug": "browseros-ai/BrowserOS",
-      "url": "https://github.com/browseros-ai/BrowserOS",
-      "description": "🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.",
+      "slug": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars": 12764,
-      "stars_today": 70,
-      "stars_gained_window": 681,
-      "days_in_window": 7,
-      "first_seen": "2026-07-09",
-      "days_seen": 7,
+      "stars": 44283,
+      "stars_today": 572,
+      "stars_gained_window": 1744,
+      "days_in_window": 6,
+      "first_seen": "2026-06-08",
+      "days_seen": 8,
       "sources": [
+        "overall",
         "lang:typescript"
       ]
     },
     {
-      "slug": "paperless-ngx/paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "slug": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 43580,
-      "stars_today": 54,
-      "stars_gained_window": 165,
-      "days_in_window": 4,
-      "first_seen": "2026-06-23",
-      "days_seen": 7,
+      "stars": 34665,
+      "stars_today": 441,
+      "stars_gained_window": 2118,
+      "days_in_window": 6,
+      "first_seen": "2026-06-15",
+      "days_seen": 8,
       "sources": [
+        "overall",
         "lang:python"
       ]
     },
     {
-      "slug": "hashicorp/terraform",
-      "url": "https://github.com/hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "stars": 49301,
-      "stars_today": 11,
-      "stars_gained_window": 516,
-      "days_in_window": 6,
-      "first_seen": "2026-06-14",
-      "days_seen": 7,
+      "slug": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 10228,
+      "stars_today": 308,
+      "stars_gained_window": 2174,
+      "days_in_window": 8,
+      "first_seen": "2026-07-20",
+      "days_seen": 8,
       "sources": [
-        "lang:go"
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": 25087,
+      "stars_today": 49,
+      "stars_gained_window": 238,
+      "days_in_window": 7,
+      "first_seen": "2026-06-16",
+      "days_seen": 8,
+      "sources": [
+        "lang:rust"
       ]
     },
     {
@@ -910,15 +898,30 @@
       "url": "https://github.com/CoreBunch/Instatic",
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. ",
       "language": "TypeScript",
-      "stars": 5872,
-      "stars_today": 888,
-      "stars_gained_window": 2553,
-      "days_in_window": 6,
+      "stars": 6297,
+      "stars_today": 674,
+      "stars_gained_window": 3227,
+      "days_in_window": 7,
       "first_seen": "2026-07-01",
-      "days_seen": 6,
+      "days_seen": 7,
+      "sources": [
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 11390,
+      "stars_today": 434,
+      "stars_gained_window": 3863,
+      "days_in_window": 6,
+      "first_seen": "2026-06-24",
+      "days_seen": 7,
       "sources": [
         "overall",
-        "lang:typescript"
+        "lang:python"
       ]
     },
     {
@@ -926,46 +929,44 @@
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers ",
       "language": "Python",
-      "stars": 15464,
-      "stars_today": 187,
-      "stars_gained_window": 264,
-      "days_in_window": 2,
+      "stars": 15544,
+      "stars_today": 185,
+      "stars_gained_window": 449,
+      "days_in_window": 3,
       "first_seen": "2026-06-14",
-      "days_seen": 6,
+      "days_seen": 7,
       "sources": [
-        "overall",
         "lang:python"
       ]
     },
     {
-      "slug": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
+      "slug": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars": 15152,
-      "stars_today": 149,
-      "stars_gained_window": 927,
-      "days_in_window": 6,
-      "first_seen": "2026-07-13",
-      "days_seen": 6,
+      "stars": 109015,
+      "stars_today": 111,
+      "stars_gained_window": 1566,
+      "days_in_window": 5,
+      "first_seen": "2026-06-14",
+      "days_seen": 7,
       "sources": [
-        "overall",
         "lang:typescript"
       ]
     },
     {
-      "slug": "huggingface/speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "description": "Build local voice agents with open-source models",
-      "language": "Python",
-      "stars": 6509,
-      "stars_today": 81,
-      "stars_gained_window": 720,
-      "days_in_window": 6,
-      "first_seen": "2026-07-04",
-      "days_seen": 6,
+      "slug": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars": 26512,
+      "stars_today": 42,
+      "stars_gained_window": 730,
+      "days_in_window": 2,
+      "first_seen": "2026-06-11",
+      "days_seen": 7,
       "sources": [
-        "lang:python"
+        "lang:typescript"
       ]
     },
     {
@@ -973,14 +974,44 @@
       "url": "https://github.com/home-assistant/core",
       "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
       "language": "Python",
-      "stars": 89485,
-      "stars_today": 28,
-      "stars_gained_window": 697,
-      "days_in_window": 5,
+      "stars": 89530,
+      "stars_today": 39,
+      "stars_gained_window": 736,
+      "days_in_window": 6,
       "first_seen": "2026-06-15",
-      "days_seen": 6,
+      "days_seen": 7,
       "sources": [
         "lang:python"
+      ]
+    },
+    {
+      "slug": "charmbracelet/crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "description": "Glamourous agentic coding for all 💘",
+      "language": "Go",
+      "stars": 26896,
+      "stars_today": 35,
+      "stars_gained_window": 332,
+      "days_in_window": 5,
+      "first_seen": "2026-06-08",
+      "days_seen": 7,
+      "sources": [
+        "lang:go"
+      ]
+    },
+    {
+      "slug": "junhoyeo/tokscale",
+      "url": "https://github.com/junhoyeo/tokscale",
+      "description": "🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with quadrillions of tokens tracked.",
+      "language": "Rust",
+      "stars": 4671,
+      "stars_today": 29,
+      "stars_gained_window": 219,
+      "days_in_window": 5,
+      "first_seen": "2026-06-11",
+      "days_seen": 7,
+      "sources": [
+        "lang:rust"
       ]
     },
     {
@@ -988,14 +1019,29 @@
       "url": "https://github.com/ethereum/go-ethereum",
       "description": "Go implementation of the Ethereum protocol",
       "language": "Go",
-      "stars": 51230,
-      "stars_today": 15,
-      "stars_gained_window": 81,
-      "days_in_window": 3,
+      "stars": 51233,
+      "stars_today": 10,
+      "stars_gained_window": 91,
+      "days_in_window": 4,
       "first_seen": "2026-06-08",
-      "days_seen": 6,
+      "days_seen": 7,
       "sources": [
         "lang:go"
+      ]
+    },
+    {
+      "slug": "rolldown/rolldown",
+      "url": "https://github.com/rolldown/rolldown",
+      "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+      "language": "Rust",
+      "stars": 13833,
+      "stars_today": 8,
+      "stars_gained_window": 135,
+      "days_in_window": 5,
+      "first_seen": "2026-06-15",
+      "days_seen": 7,
+      "sources": [
+        "lang:rust"
       ]
     }
   ],
@@ -1032,15 +1078,12 @@
       "description": "A hive mind communication platform",
       "language": "Rust",
       "stars": 13758,
-      "stars_today": 1710,
+      "stars_today": null,
       "stars_gained_window": 12885,
       "days_in_window": 5,
       "first_seen": "2026-07-23",
       "days_seen": 5,
-      "sources": [
-        "overall",
-        "lang:rust"
-      ]
+      "sources": []
     },
     {
       "slug": "mattpocock/skills",
@@ -1082,6 +1125,21 @@
       "sources": []
     },
     {
+      "slug": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 45079,
+      "stars_today": 507,
+      "stars_gained_window": 10523,
+      "days_in_window": 9,
+      "first_seen": "2026-06-29",
+      "days_seen": 9,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
       "slug": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
@@ -1095,27 +1153,14 @@
       "sources": []
     },
     {
-      "slug": "usestrix/strix",
-      "url": "https://github.com/usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars": 44264,
-      "stars_today": null,
-      "stars_gained_window": 10016,
-      "days_in_window": 8,
-      "first_seen": "2026-06-29",
-      "days_seen": 8,
-      "sources": []
-    },
-    {
       "slug": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
       "stars": 24412,
       "stars_today": null,
-      "stars_gained_window": 9114,
-      "days_in_window": 12,
+      "stars_gained_window": 9022,
+      "days_in_window": 11,
       "first_seen": "2026-06-28",
       "days_seen": 12,
       "sources": []
@@ -1138,12 +1183,12 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes",
       "language": "Rust",
-      "stars": 26886,
-      "stars_today": 191,
-      "stars_gained_window": 8559,
-      "days_in_window": 8,
+      "stars": 27066,
+      "stars_today": 204,
+      "stars_gained_window": 8763,
+      "days_in_window": 9,
       "first_seen": "2026-07-03",
-      "days_seen": 8,
+      "days_seen": 9,
       "sources": [
         "lang:rust"
       ]
@@ -1220,8 +1265,8 @@
       "language": "Rust",
       "stars": 18489,
       "stars_today": null,
-      "stars_gained_window": 7290,
-      "days_in_window": 13,
+      "stars_gained_window": 7053,
+      "days_in_window": 12,
       "first_seen": "2026-06-17",
       "days_seen": 17,
       "sources": []
@@ -1324,8 +1369,8 @@
       "language": "TypeScript",
       "stars": 10425,
       "stars_today": null,
-      "stars_gained_window": 5495,
-      "days_in_window": 9,
+      "stars_gained_window": 5348,
+      "days_in_window": 8,
       "first_seen": "2026-06-28",
       "days_seen": 9,
       "sources": []

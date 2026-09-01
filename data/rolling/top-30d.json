@@ -1,250 +1,158 @@
 {
-  "generated_at": "2026-08-31T06:27:37.756613+00:00",
-  "today": "2026-08-31",
+  "generated_at": "2026-09-01T06:22:39.009266+00:00",
+  "today": "2026-09-01",
   "window_days": 30,
-  "snapshot_count": 80,
-  "total_repos_today": 83,
+  "snapshot_count": 81,
+  "total_repos_today": 67,
   "newcomers": [
     {
-      "slug": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
-      "language": "Swift",
-      "stars": 9807,
-      "stars_today": 361,
-      "stars_gained_window": 361,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "pollen-robotics/microduck_rl",
-      "url": "https://github.com/pollen-robotics/microduck_rl",
-      "description": "RL training environments for Microduck (mjlab)",
-      "language": "Python",
-      "stars": 896,
-      "stars_today": 168,
-      "stars_gained_window": 168,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "overall",
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "checkstyle/checkstyle",
-      "url": "https://github.com/checkstyle/checkstyle",
-      "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
-      "language": "Java",
-      "stars": 9250,
-      "stars_today": 115,
-      "stars_gained_window": 115,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "Waishnav/devspace",
-      "url": "https://github.com/Waishnav/devspace",
-      "description": "Minimal Coding Agent Harness over MCP for ChatGPT, Claude, Hermes, Grok Bot, OpenClaw",
+      "slug": "hieunc229/mailflare",
+      "url": "https://github.com/hieunc229/mailflare",
+      "description": "Professional email for professionals and teams",
       "language": "TypeScript",
-      "stars": 4321,
-      "stars_today": 108,
-      "stars_gained_window": 108,
+      "stars": 2157,
+      "stars_today": 362,
+      "stars_gained_window": 362,
       "days_in_window": 1,
-      "first_seen": "2026-08-31",
+      "first_seen": "2026-09-01",
       "days_seen": 1,
       "sources": [
         "lang:typescript"
       ]
     },
     {
-      "slug": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "language": null,
-      "stars": 93465,
-      "stars_today": 96,
-      "stars_gained_window": 96,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "mobile-next/mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
-      "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-      "language": "TypeScript",
-      "stars": 6253,
-      "stars_today": 72,
-      "stars_gained_window": 72,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "nashsu/llm_wiki",
-      "url": "https://github.com/nashsu/llm_wiki",
-      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "language": "TypeScript",
-      "stars": 17140,
-      "stars_today": 66,
-      "stars_gained_window": 66,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "happycola233/tchMaterial-parser",
-      "url": "https://github.com/happycola233/tchMaterial-parser",
-      "description": "国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。",
+      "slug": "securo-finance/securo",
+      "url": "https://github.com/securo-finance/securo",
+      "description": "Open-source personal finance manager. Self-hosted, privacy-first.",
       "language": "Python",
-      "stars": 6435,
-      "stars_today": 64,
-      "stars_gained_window": 64,
+      "stars": 2879,
+      "stars_today": 137,
+      "stars_gained_window": 137,
       "days_in_window": 1,
-      "first_seen": "2026-08-31",
+      "first_seen": "2026-09-01",
       "days_seen": 1,
       "sources": [
         "lang:python"
       ]
     },
     {
-      "slug": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "language": "Python",
-      "stars": 5895,
-      "stars_today": 62,
-      "stars_gained_window": 62,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "overall",
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "readest/readest",
-      "url": "https://github.com/readest/readest",
-      "description": "Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.",
+      "slug": "ionic-team/capacitor",
+      "url": "https://github.com/ionic-team/capacitor",
+      "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
       "language": "TypeScript",
-      "stars": 23923,
-      "stars_today": 39,
-      "stars_gained_window": 39,
+      "stars": 16519,
+      "stars_today": 79,
+      "stars_gained_window": 79,
       "days_in_window": 1,
-      "first_seen": "2026-08-31",
+      "first_seen": "2026-09-01",
       "days_seen": 1,
       "sources": [
         "lang:typescript"
       ]
     },
     {
-      "slug": "shootthesound/Fizgig",
-      "url": "https://github.com/shootthesound/Fizgig",
-      "description": "Krea 2, MiniMax & Klein 9B LoRA - LoKR Studio — train, profile, repair, and extract Krea 2, Flux 2 Klein 9B & MiniMax LoRAs & LoKRs",
-      "language": "Python",
-      "stars": 306,
-      "stars_today": 33,
-      "stars_gained_window": 33,
+      "slug": "alphaXiv/openresearch-cli",
+      "url": "https://github.com/alphaXiv/openresearch-cli",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars": 602,
+      "stars_today": 63,
+      "stars_gained_window": 63,
       "days_in_window": 1,
-      "first_seen": "2026-08-31",
+      "first_seen": "2026-09-01",
+      "days_seen": 1,
+      "sources": [
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "PurpleDoubleD/locally-uncensored",
+      "url": "https://github.com/PurpleDoubleD/locally-uncensored",
+      "description": "Plug-and-play local AI studio: uncensored chat, image & video generation, coding agent. Runs abliterated LLMs + ComfyUI 100% offline. One installer, no Docker, no cloud.",
+      "language": "TypeScript",
+      "stars": 1328,
+      "stars_today": 45,
+      "stars_gained_window": 45,
+      "days_in_window": 1,
+      "first_seen": "2026-09-01",
+      "days_seen": 1,
+      "sources": [
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "mukul975/cve-mcp-server",
+      "url": "https://github.com/mukul975/cve-mcp-server",
+      "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.",
+      "language": "Python",
+      "stars": 1340,
+      "stars_today": 30,
+      "stars_gained_window": 30,
+      "days_in_window": 1,
+      "first_seen": "2026-09-01",
       "days_seen": 1,
       "sources": [
         "lang:python"
       ]
     },
     {
-      "slug": "charmbracelet/bubbletea",
-      "url": "https://github.com/charmbracelet/bubbletea",
-      "description": "A powerful little TUI framework 🏗",
+      "slug": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars": 13565,
+      "stars_today": 18,
+      "stars_gained_window": 18,
+      "days_in_window": 1,
+      "first_seen": "2026-09-01",
+      "days_seen": 1,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "hoaxisr/awg-manager",
+      "url": "https://github.com/hoaxisr/awg-manager",
+      "description": "AmneziaWG tunnel manager with web interface for Keenetic routers",
       "language": "Go",
-      "stars": 44708,
-      "stars_today": 27,
-      "stars_gained_window": 27,
+      "stars": 569,
+      "stars_today": 8,
+      "stars_gained_window": 8,
       "days_in_window": 1,
-      "first_seen": "2026-08-31",
+      "first_seen": "2026-09-01",
       "days_seen": 1,
       "sources": [
         "lang:go"
       ]
     },
     {
-      "slug": "agent0ai/agent-zero",
-      "url": "https://github.com/agent0ai/agent-zero",
-      "description": "Agent Zero AI framework",
-      "language": "Python",
-      "stars": 19037,
-      "stars_today": 20,
-      "stars_gained_window": 20,
+      "slug": "Hiram-Wong/zyfun",
+      "url": "https://github.com/Hiram-Wong/zyfun",
+      "description": "跨平台桌面端视频资源播放器,免费高颜值.",
+      "language": "TypeScript",
+      "stars": 8827,
+      "stars_today": 4,
+      "stars_gained_window": 4,
       "days_in_window": 1,
-      "first_seen": "2026-08-31",
+      "first_seen": "2026-09-01",
       "days_seen": 1,
       "sources": [
-        "lang:python"
+        "lang:typescript"
       ]
     },
     {
-      "slug": "apache/iggy",
-      "url": "https://github.com/apache/iggy",
-      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
-      "language": "Rust",
-      "stars": 4628,
-      "stars_today": 15,
-      "stars_gained_window": 15,
+      "slug": "Xpl0itU/WiiUDownloader",
+      "url": "https://github.com/Xpl0itU/WiiUDownloader",
+      "description": "Cross-platform Wii U NUS downloader for Windows, macOS & Linux. No title keys needed. Alternative to Wii U USB Helper.",
+      "language": "Go",
+      "stars": 2067,
+      "stars_today": 3,
+      "stars_gained_window": 3,
       "days_in_window": 1,
-      "first_seen": "2026-08-31",
+      "first_seen": "2026-09-01",
       "days_seen": 1,
       "sources": [
-        "lang:rust"
-      ]
-    },
-    {
-      "slug": "taoufik123-collab/claude-watch",
-      "url": "https://github.com/taoufik123-collab/claude-watch",
-      "description": "Give Claude the ability to watch any video — scene-change frames + transcript + a structured report, with a 0-10s hook microscope and optional Obsidian auto-save.",
-      "language": "Python",
-      "stars": 715,
-      "stars_today": 15,
-      "stars_gained_window": 15,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "librespot-org/librespot",
-      "url": "https://github.com/librespot-org/librespot",
-      "description": "Open Source Spotify client library",
-      "language": "Rust",
-      "stars": 6997,
-      "stars_today": 6,
-      "stars_gained_window": 6,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "lang:rust"
+        "lang:go"
       ]
     }
   ],
@@ -254,12 +162,12 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
-      "stars": 35790,
-      "stars_today": 3722,
-      "stars_gained_window": 17460,
-      "days_in_window": 5,
+      "stars": 39781,
+      "stars_today": 3991,
+      "stars_gained_window": 21451,
+      "days_in_window": 6,
       "first_seen": "2026-08-27",
-      "days_seen": 5,
+      "days_seen": 6,
       "sources": [
         "overall"
       ]
@@ -269,12 +177,12 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
-      "stars": 24878,
-      "stars_today": 1370,
-      "stars_gained_window": 2310,
-      "days_in_window": 3,
+      "stars": 27940,
+      "stars_today": 2824,
+      "stars_gained_window": 5134,
+      "days_in_window": 4,
       "first_seen": "2026-07-24",
-      "days_seen": 4,
+      "days_seen": 5,
       "sources": [
         "overall",
         "lang:typescript"
@@ -285,12 +193,120 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars": 39785,
-      "stars_today": 1114,
-      "stars_gained_window": 4576,
-      "days_in_window": 10,
+      "stars": 40983,
+      "stars_today": 1980,
+      "stars_gained_window": 6556,
+      "days_in_window": 11,
       "first_seen": "2026-08-04",
-      "days_seen": 10,
+      "days_seen": 11,
+      "sources": [
+        "overall",
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "stars": 33398,
+      "stars_today": 1401,
+      "stars_gained_window": 7285,
+      "days_in_window": 4,
+      "first_seen": "2026-08-01",
+      "days_seen": 6,
+      "sources": [
+        "overall"
+      ]
+    },
+    {
+      "slug": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "stars": 23401,
+      "stars_today": 748,
+      "stars_gained_window": 4251,
+      "days_in_window": 12,
+      "first_seen": "2026-06-23",
+      "days_seen": 18,
+      "sources": [
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 15871,
+      "stars_today": 610,
+      "stars_gained_window": 1916,
+      "days_in_window": 5,
+      "first_seen": "2026-06-26",
+      "days_seen": 15,
+      "sources": [
+        "overall",
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 22464,
+      "stars_today": 591,
+      "stars_gained_window": 1826,
+      "days_in_window": 5,
+      "first_seen": "2026-06-28",
+      "days_seen": 12,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars": 23476,
+      "stars_today": 582,
+      "stars_gained_window": 582,
+      "days_in_window": 1,
+      "first_seen": "2026-07-13",
+      "days_seen": 2,
+      "sources": [
+        "overall"
+      ]
+    },
+    {
+      "slug": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars": 6409,
+      "stars_today": 571,
+      "stars_gained_window": 633,
+      "days_in_window": 2,
+      "first_seen": "2026-08-31",
+      "days_seen": 2,
+      "sources": [
+        "overall",
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 29769,
+      "stars_today": 537,
+      "stars_gained_window": 1056,
+      "days_in_window": 3,
+      "first_seen": "2026-07-14",
+      "days_seen": 5,
       "sources": [
         "overall",
         "lang:python"
@@ -301,60 +317,196 @@
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
-      "stars": 4448,
-      "stars_today": 841,
-      "stars_gained_window": 2595,
-      "days_in_window": 3,
+      "stars": 5101,
+      "stars_today": 526,
+      "stars_gained_window": 3121,
+      "days_in_window": 4,
       "first_seen": "2026-08-29",
-      "days_seen": 3,
+      "days_seen": 4,
       "sources": [
         "lang:go"
       ]
     },
     {
-      "slug": "martin-olivier/airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software mainly based on aircrack-ng tools suite",
-      "language": "Rust",
-      "stars": 2626,
-      "stars_today": 577,
-      "stars_gained_window": 577,
-      "days_in_window": 1,
-      "first_seen": "2026-07-03",
-      "days_seen": 5,
+      "slug": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": 80619,
+      "stars_today": 516,
+      "stars_gained_window": 1604,
+      "days_in_window": 4,
+      "first_seen": "2026-06-30",
+      "days_seen": 8,
       "sources": [
-        "lang:rust"
+        "lang:python"
       ]
     },
     {
-      "slug": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "stars": 22999,
-      "stars_today": 504,
-      "stars_gained_window": 3503,
-      "days_in_window": 11,
+      "slug": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 245383,
+      "stars_today": 512,
+      "stars_gained_window": 1707,
+      "days_in_window": 4,
       "first_seen": "2026-06-23",
-      "days_seen": 17,
+      "days_seen": 11,
+      "sources": [
+        "overall"
+      ]
+    },
+    {
+      "slug": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 12832,
+      "stars_today": 509,
+      "stars_gained_window": 821,
+      "days_in_window": 3,
+      "first_seen": "2026-08-23",
+      "days_seen": 3,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": 56435,
+      "stars_today": 495,
+      "stars_gained_window": 495,
+      "days_in_window": 1,
+      "first_seen": "2026-07-09",
+      "days_seen": 2,
       "sources": [
         "overall",
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 55116,
+      "stars_today": 454,
+      "stars_gained_window": 5145,
+      "days_in_window": 7,
+      "first_seen": "2026-06-23",
+      "days_seen": 14,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 60821,
+      "stars_today": 429,
+      "stars_gained_window": 1630,
+      "days_in_window": 7,
+      "first_seen": "2026-06-08",
+      "days_seen": 21,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "pollen-robotics/microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "language": "Python",
+      "stars": 1259,
+      "stars_today": 385,
+      "stars_gained_window": 553,
+      "days_in_window": 2,
+      "first_seen": "2026-08-31",
+      "days_seen": 2,
+      "sources": [
+        "overall",
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "language": "Go",
+      "stars": 10629,
+      "stars_today": 373,
+      "stars_gained_window": 438,
+      "days_in_window": 3,
+      "first_seen": "2026-07-26",
+      "days_seen": 4,
+      "sources": [
+        "overall",
+        "lang:go"
+      ]
+    },
+    {
+      "slug": "abi/screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "language": "Python",
+      "stars": 76763,
+      "stars_today": 365,
+      "stars_gained_window": 1659,
+      "days_in_window": 4,
+      "first_seen": "2026-08-29",
+      "days_seen": 4,
+      "sources": [
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "hieunc229/mailflare",
+      "url": "https://github.com/hieunc229/mailflare",
+      "description": "Professional email for professionals and teams",
+      "language": "TypeScript",
+      "stars": 2157,
+      "stars_today": 362,
+      "stars_gained_window": 362,
+      "days_in_window": 1,
+      "first_seen": "2026-09-01",
+      "days_seen": 1,
+      "sources": [
         "lang:typescript"
       ]
     },
     {
-      "slug": "every-app/open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars": 15333,
-      "stars_today": 469,
-      "stars_gained_window": 1306,
-      "days_in_window": 4,
-      "first_seen": "2026-06-26",
-      "days_seen": 14,
+      "slug": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "language": "Python",
+      "stars": 4247,
+      "stars_today": 326,
+      "stars_gained_window": 1379,
+      "days_in_window": 5,
+      "first_seen": "2026-08-16",
+      "days_seen": 5,
       "sources": [
-        "overall",
+        "lang:python"
+      ]
+    },
+    {
+      "slug": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars": 46784,
+      "stars_today": 295,
+      "stars_gained_window": 1033,
+      "days_in_window": 6,
+      "first_seen": "2026-06-23",
+      "days_seen": 8,
+      "sources": [
         "lang:typescript"
       ]
     },
@@ -363,322 +515,46 @@
       "url": "https://github.com/workweave/router",
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
-      "stars": 3159,
-      "stars_today": 464,
-      "stars_gained_window": 1441,
-      "days_in_window": 3,
+      "stars": 3395,
+      "stars_today": 246,
+      "stars_gained_window": 1687,
+      "days_in_window": 4,
       "first_seen": "2026-06-29",
-      "days_seen": 4,
-      "sources": [
-        "lang:go"
-      ]
-    },
-    {
-      "slug": "kaifcodec/user-scanner",
-      "url": "https://github.com/kaifcodec/user-scanner",
-      "description": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
-      "language": "Python",
-      "stars": 3901,
-      "stars_today": 462,
-      "stars_gained_window": 501,
-      "days_in_window": 2,
-      "first_seen": "2026-08-30",
-      "days_seen": 2,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "language": "TypeScript",
-      "stars": 174545,
-      "stars_today": 436,
-      "stars_gained_window": 3960,
-      "days_in_window": 6,
-      "first_seen": "2026-06-23",
-      "days_seen": 14,
-      "sources": [
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "abi/screenshot-to-code",
-      "url": "https://github.com/abi/screenshot-to-code",
-      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-      "language": "Python",
-      "stars": 76491,
-      "stars_today": 418,
-      "stars_gained_window": 1294,
-      "days_in_window": 3,
-      "first_seen": "2026-08-29",
-      "days_seen": 3,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "p-e-w/heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "stars": 29304,
-      "stars_today": 369,
-      "stars_gained_window": 519,
-      "days_in_window": 2,
-      "first_seen": "2026-07-14",
-      "days_seen": 4,
-      "sources": [
-        "overall",
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "Lakr233/vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
-      "language": "Swift",
-      "stars": 9807,
-      "stars_today": 361,
-      "stars_gained_window": 361,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "Osmantic/ODS",
-      "url": "https://github.com/Osmantic/ODS",
-      "description": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-      "language": "Python",
-      "stars": 5171,
-      "stars_today": 331,
-      "stars_gained_window": 570,
-      "days_in_window": 4,
-      "first_seen": "2026-08-21",
-      "days_seen": 4,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "stars": 116676,
-      "stars_today": 319,
-      "stars_gained_window": 725,
-      "days_in_window": 5,
-      "first_seen": "2026-06-15",
-      "days_seen": 20,
-      "sources": [
-        "lang:rust"
-      ]
-    },
-    {
-      "slug": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "language": "Python",
-      "stars": 77421,
-      "stars_today": 253,
-      "stars_gained_window": 712,
-      "days_in_window": 3,
-      "first_seen": "2026-07-01",
-      "days_seen": 4,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "kubernetes/kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "language": "Go",
-      "stars": 125591,
-      "stars_today": 244,
-      "stars_gained_window": 434,
-      "days_in_window": 4,
-      "first_seen": "2026-07-04",
-      "days_seen": 9,
-      "sources": [
-        "lang:go"
-      ]
-    },
-    {
-      "slug": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "language": "Python",
-      "stars": 60639,
-      "stars_today": 230,
-      "stars_gained_window": 1801,
-      "days_in_window": 7,
-      "first_seen": "2026-06-08",
-      "days_seen": 20,
-      "sources": [
-        "overall",
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "stars": 80395,
-      "stars_today": 221,
-      "stars_gained_window": 1088,
-      "days_in_window": 3,
-      "first_seen": "2026-06-30",
-      "days_seen": 7,
-      "sources": [
-        "overall",
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "yt-dlp/yt-dlp",
-      "url": "https://github.com/yt-dlp/yt-dlp",
-      "description": "A feature-rich command-line audio/video downloader",
-      "language": "Python",
-      "stars": 188010,
-      "stars_today": 209,
-      "stars_gained_window": 1172,
-      "days_in_window": 5,
-      "first_seen": "2026-06-08",
-      "days_seen": 11,
-      "sources": [
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "stars": 74024,
-      "stars_today": 198,
-      "stars_gained_window": 389,
-      "days_in_window": 2,
-      "first_seen": "2026-08-29",
-      "days_seen": 2,
-      "sources": [
-        "overall"
-      ]
-    },
-    {
-      "slug": "clash-verge-rev/clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
-      "language": "TypeScript",
-      "stars": 141223,
-      "stars_today": 191,
-      "stars_gained_window": 506,
-      "days_in_window": 2,
-      "first_seen": "2026-07-03",
       "days_seen": 5,
       "sources": [
-        "lang:typescript"
+        "lang:go"
       ]
     },
     {
-      "slug": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
-      "language": "TypeScript",
-      "stars": 46650,
-      "stars_today": 182,
-      "stars_gained_window": 738,
-      "days_in_window": 5,
-      "first_seen": "2026-06-23",
-      "days_seen": 7,
-      "sources": [
-        "overall",
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "pollen-robotics/microduck_rl",
-      "url": "https://github.com/pollen-robotics/microduck_rl",
-      "description": "RL training environments for Microduck (mjlab)",
-      "language": "Python",
-      "stars": 896,
-      "stars_today": 168,
-      "stars_gained_window": 168,
-      "days_in_window": 1,
-      "first_seen": "2026-08-31",
-      "days_seen": 1,
-      "sources": [
-        "overall",
-        "lang:python"
-      ]
-    },
-    {
-      "slug": "vercel-labs/vgpu",
-      "url": "https://github.com/vercel-labs/vgpu",
-      "description": "Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz",
-      "language": "TypeScript",
-      "stars": 1130,
-      "stars_today": 143,
-      "stars_gained_window": 346,
+      "slug": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars": 8214,
+      "stars_today": 236,
+      "stars_gained_window": 259,
       "days_in_window": 2,
-      "first_seen": "2026-08-30",
-      "days_seen": 2,
+      "first_seen": "2026-06-11",
+      "days_seen": 10,
       "sources": [
-        "lang:typescript"
+        "lang:go"
       ]
     }
   ],
   "persisters": [
     {
-      "slug": "rust-lang/rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "stars": 116676,
-      "stars_today": 319,
-      "stars_gained_window": 725,
-      "days_in_window": 5,
-      "first_seen": "2026-06-15",
-      "days_seen": 20,
-      "sources": [
-        "lang:rust"
-      ]
-    },
-    {
       "slug": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 60639,
-      "stars_today": 230,
-      "stars_gained_window": 1801,
+      "stars": 60821,
+      "stars_today": 429,
+      "stars_gained_window": 1630,
       "days_in_window": 7,
       "first_seen": "2026-06-08",
-      "days_seen": 20,
+      "days_seen": 21,
       "sources": [
-        "overall",
         "lang:python"
-      ]
-    },
-    {
-      "slug": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars": 50236,
-      "stars_today": 96,
-      "stars_gained_window": 576,
-      "days_in_window": 6,
-      "first_seen": "2026-06-26",
-      "days_seen": 18,
-      "sources": [
-        "lang:typescript"
       ]
     },
     {
@@ -686,12 +562,12 @@
       "url": "https://github.com/SagerNet/sing-box",
       "description": "The universal proxy platform",
       "language": "Go",
-      "stars": 37413,
-      "stars_today": 30,
-      "stars_gained_window": 238,
-      "days_in_window": 7,
+      "stars": 37468,
+      "stars_today": 59,
+      "stars_gained_window": 297,
+      "days_in_window": 8,
       "first_seen": "2026-06-15",
-      "days_seen": 18,
+      "days_seen": 19,
       "sources": [
         "lang:go"
       ]
@@ -701,14 +577,13 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
-      "stars": 22999,
-      "stars_today": 504,
-      "stars_gained_window": 3503,
-      "days_in_window": 11,
+      "stars": 23401,
+      "stars_today": 748,
+      "stars_gained_window": 4251,
+      "days_in_window": 12,
       "first_seen": "2026-06-23",
-      "days_seen": 17,
+      "days_seen": 18,
       "sources": [
-        "overall",
         "lang:typescript"
       ]
     },
@@ -717,27 +592,12 @@
       "url": "https://github.com/tailscale/tailscale",
       "description": "The easiest, most secure way to use WireGuard and 2FA.",
       "language": "Go",
-      "stars": 35853,
-      "stars_today": 58,
-      "stars_gained_window": 319,
-      "days_in_window": 6,
+      "stars": 35922,
+      "stars_today": 70,
+      "stars_gained_window": 389,
+      "days_in_window": 7,
       "first_seen": "2026-06-23",
-      "days_seen": 16,
-      "sources": [
-        "lang:go"
-      ]
-    },
-    {
-      "slug": "Gentleman-Programming/gentle-ai",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai",
-      "description": "",
-      "language": "Go",
-      "stars": 6092,
-      "stars_today": 28,
-      "stars_gained_window": 318,
-      "days_in_window": 8,
-      "first_seen": "2026-06-08",
-      "days_seen": 16,
+      "days_seen": 17,
       "sources": [
         "lang:go"
       ]
@@ -747,30 +607,30 @@
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars": 15333,
-      "stars_today": 469,
-      "stars_gained_window": 1306,
-      "days_in_window": 4,
+      "stars": 15871,
+      "stars_today": 610,
+      "stars_gained_window": 1916,
+      "days_in_window": 5,
       "first_seen": "2026-06-26",
-      "days_seen": 14,
+      "days_seen": 15,
       "sources": [
         "overall",
         "lang:typescript"
       ]
     },
     {
-      "slug": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "language": "TypeScript",
-      "stars": 174545,
-      "stars_today": 436,
-      "stars_gained_window": 3960,
-      "days_in_window": 6,
+      "slug": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 55116,
+      "stars_today": 454,
+      "stars_gained_window": 5145,
+      "days_in_window": 7,
       "first_seen": "2026-06-23",
       "days_seen": 14,
       "sources": [
-        "lang:typescript"
+        "lang:python"
       ]
     },
     {
@@ -778,74 +638,59 @@
       "url": "https://github.com/kenn-io/agentsview",
       "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. ",
       "language": "Go",
-      "stars": 5660,
-      "stars_today": 142,
-      "stars_gained_window": 306,
-      "days_in_window": 3,
+      "stars": 5693,
+      "stars_today": 47,
+      "stars_gained_window": 353,
+      "days_in_window": 4,
       "first_seen": "2026-06-12",
-      "days_seen": 13,
+      "days_seen": 14,
       "sources": [
         "lang:go"
       ]
     },
     {
-      "slug": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars": 6299,
-      "stars_today": 135,
-      "stars_gained_window": 2191,
-      "days_in_window": 12,
-      "first_seen": "2026-08-01",
-      "days_seen": 13,
-      "sources": [
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars": 137131,
-      "stars_today": 97,
-      "stars_gained_window": 418,
-      "days_in_window": 4,
-      "first_seen": "2026-06-08",
-      "days_seen": 13,
-      "sources": [
-        "lang:typescript"
-      ]
-    },
-    {
-      "slug": "cjpais/Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "slug": "biomejs/biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
       "language": "Rust",
-      "stars": 30721,
-      "stars_today": 73,
-      "stars_gained_window": 535,
-      "days_in_window": 5,
-      "first_seen": "2026-06-10",
+      "stars": 25691,
+      "stars_today": 11,
+      "stars_gained_window": 36,
+      "days_in_window": 3,
+      "first_seen": "2026-06-08",
       "days_seen": 13,
       "sources": [
         "lang:rust"
       ]
     },
     {
-      "slug": "yt-dlp/yt-dlp",
-      "url": "https://github.com/yt-dlp/yt-dlp",
-      "description": "A feature-rich command-line audio/video downloader",
+      "slug": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars": 188010,
-      "stars_today": 209,
-      "stars_gained_window": 1172,
+      "stars": 22464,
+      "stars_today": 591,
+      "stars_gained_window": 1826,
       "days_in_window": 5,
-      "first_seen": "2026-06-08",
-      "days_seen": 11,
+      "first_seen": "2026-06-28",
+      "days_seen": 12,
       "sources": [
         "lang:python"
+      ]
+    },
+    {
+      "slug": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "stars": 6947,
+      "stars_today": 6,
+      "stars_gained_window": 25,
+      "days_in_window": 3,
+      "first_seen": "2026-06-10",
+      "days_seen": 12,
+      "sources": [
+        "lang:go"
       ]
     },
     {
@@ -853,30 +698,45 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
-      "stars": 39785,
-      "stars_today": 1114,
-      "stars_gained_window": 4576,
-      "days_in_window": 10,
+      "stars": 40983,
+      "stars_today": 1980,
+      "stars_gained_window": 6556,
+      "days_in_window": 11,
       "first_seen": "2026-08-04",
-      "days_seen": 10,
+      "days_seen": 11,
       "sources": [
         "overall",
         "lang:python"
       ]
     },
     {
-      "slug": "helix-editor/helix",
-      "url": "https://github.com/helix-editor/helix",
-      "description": "A post-modern modal text editor.",
-      "language": "Rust",
-      "stars": 46031,
-      "stars_today": 28,
-      "stars_gained_window": 51,
-      "days_in_window": 2,
-      "first_seen": "2026-06-08",
-      "days_seen": 10,
+      "slug": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 245383,
+      "stars_today": 512,
+      "stars_gained_window": 1707,
+      "days_in_window": 4,
+      "first_seen": "2026-06-23",
+      "days_seen": 11,
       "sources": [
-        "lang:rust"
+        "overall"
+      ]
+    },
+    {
+      "slug": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars": 23021,
+      "stars_today": 22,
+      "stars_gained_window": 22,
+      "days_in_window": 1,
+      "first_seen": "2026-07-02",
+      "days_seen": 11,
+      "sources": [
+        "lang:go"
       ]
     },
     {
@@ -884,102 +744,87 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for open models like Kimi K3",
       "language": "Rust",
-      "stars": 68208,
-      "stars_today": 24,
-      "stars_gained_window": 24,
-      "days_in_window": 1,
-      "first_seen": "2026-06-15",
-      "days_seen": 10,
-      "sources": [
-        "lang:rust"
-      ]
-    },
-    {
-      "slug": "meilisearch/meilisearch",
-      "url": "https://github.com/meilisearch/meilisearch",
-      "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-      "language": "Rust",
-      "stars": 59144,
+      "stars": 68216,
       "stars_today": 16,
-      "stars_gained_window": 16,
-      "days_in_window": 1,
-      "first_seen": "2026-06-10",
-      "days_seen": 10,
+      "stars_gained_window": 40,
+      "days_in_window": 2,
+      "first_seen": "2026-06-15",
+      "days_seen": 11,
       "sources": [
         "lang:rust"
       ]
     },
     {
-      "slug": "kubernetes/kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "language": "Go",
-      "stars": 125591,
-      "stars_today": 244,
-      "stars_gained_window": 434,
+      "slug": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 9457,
+      "stars_today": 10,
+      "stars_gained_window": 65,
       "days_in_window": 4,
-      "first_seen": "2026-07-04",
-      "days_seen": 9,
+      "first_seen": "2026-06-10",
+      "days_seen": 11,
+      "sources": [
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars": 8214,
+      "stars_today": 236,
+      "stars_gained_window": 259,
+      "days_in_window": 2,
+      "first_seen": "2026-06-11",
+      "days_seen": 10,
       "sources": [
         "lang:go"
       ]
     },
     {
-      "slug": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.",
+      "slug": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 85240,
+      "stars_today": 189,
+      "stars_gained_window": 717,
+      "days_in_window": 3,
+      "first_seen": "2026-06-23",
+      "days_seen": 10,
+      "sources": [
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
       "language": "Python",
-      "stars": 75300,
-      "stars_today": 107,
-      "stars_gained_window": 3791,
-      "days_in_window": 9,
-      "first_seen": "2026-08-02",
-      "days_seen": 9,
+      "stars": 21652,
+      "stars_today": 77,
+      "stars_gained_window": 1026,
+      "days_in_window": 6,
+      "first_seen": "2026-07-13",
+      "days_seen": 10,
       "sources": [
         "lang:python"
       ]
     },
     {
-      "slug": "pranshuparmar/witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. ",
+      "slug": "sundowndev/phoneinfoga",
+      "url": "https://github.com/sundowndev/phoneinfoga",
+      "description": "Information gathering framework for phone numbers",
       "language": "Go",
-      "stars": 21953,
-      "stars_today": 71,
-      "stars_gained_window": 2597,
-      "days_in_window": 9,
-      "first_seen": "2026-08-02",
-      "days_seen": 9,
-      "sources": [
-        "lang:go"
-      ]
-    },
-    {
-      "slug": "Automattic/harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "language": "Rust",
-      "stars": 14821,
-      "stars_today": 24,
-      "stars_gained_window": 142,
-      "days_in_window": 4,
-      "first_seen": "2026-07-24",
-      "days_seen": 8,
-      "sources": [
-        "lang:rust"
-      ]
-    },
-    {
-      "slug": "google/gvisor",
-      "url": "https://github.com/google/gvisor",
-      "description": "Application Kernel for Containers",
-      "language": "Go",
-      "stars": 19202,
-      "stars_today": 5,
-      "stars_gained_window": 19,
-      "days_in_window": 2,
-      "first_seen": "2026-07-04",
-      "days_seen": 8,
+      "stars": 17733,
+      "stars_today": 14,
+      "stars_gained_window": 148,
+      "days_in_window": 6,
+      "first_seen": "2026-07-08",
+      "days_seen": 10,
       "sources": [
         "lang:go"
       ]
@@ -989,14 +834,13 @@
       "url": "https://github.com/unclecode/crawl4ai",
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "language": "Python",
-      "stars": 80395,
-      "stars_today": 221,
-      "stars_gained_window": 1088,
-      "days_in_window": 3,
+      "stars": 80619,
+      "stars_today": 516,
+      "stars_gained_window": 1604,
+      "days_in_window": 4,
       "first_seen": "2026-06-30",
-      "days_seen": 7,
+      "days_seen": 8,
       "sources": [
-        "overall",
         "lang:python"
       ]
     },
@@ -1005,19 +849,93 @@
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars": 46650,
-      "stars_today": 182,
-      "stars_gained_window": 738,
-      "days_in_window": 5,
+      "stars": 46784,
+      "stars_today": 295,
+      "stars_gained_window": 1033,
+      "days_in_window": 6,
       "first_seen": "2026-06-23",
+      "days_seen": 8,
+      "sources": [
+        "lang:typescript"
+      ]
+    },
+    {
+      "slug": "stalwartlabs/stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "Rust",
+      "stars": 14453,
+      "stars_today": 27,
+      "stars_gained_window": 53,
+      "days_in_window": 2,
+      "first_seen": "2026-06-11",
+      "days_seen": 8,
+      "sources": [
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "Hmbown/CodeWhale",
+      "url": "https://github.com/Hmbown/CodeWhale",
+      "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
+      "language": "Rust",
+      "stars": 40884,
+      "stars_today": 21,
+      "stars_gained_window": 233,
+      "days_in_window": 5,
+      "first_seen": "2026-07-03",
+      "days_seen": 8,
+      "sources": [
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "language": "Go",
+      "stars": 43404,
+      "stars_today": 43,
+      "stars_gained_window": 78,
+      "days_in_window": 2,
+      "first_seen": "2026-07-04",
       "days_seen": 7,
       "sources": [
-        "overall",
-        "lang:typescript"
+        "lang:go"
+      ]
+    },
+    {
+      "slug": "opencode-ai/opencode",
+      "url": "https://github.com/opencode-ai/opencode",
+      "description": "A powerful AI coding agent. Built for the terminal.",
+      "language": "Go",
+      "stars": 13714,
+      "stars_today": 7,
+      "stars_gained_window": 16,
+      "days_in_window": 2,
+      "first_seen": "2026-07-04",
+      "days_seen": 7,
+      "sources": [
+        "lang:go"
       ]
     }
   ],
   "rolling_top": [
+    {
+      "slug": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars": 39781,
+      "stars_today": 3991,
+      "stars_gained_window": 21451,
+      "days_in_window": 6,
+      "first_seen": "2026-08-27",
+      "days_seen": 6,
+      "sources": [
+        "overall"
+      ]
+    },
     {
       "slug": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
@@ -1030,21 +948,6 @@
       "first_seen": "2026-06-23",
       "days_seen": 16,
       "sources": []
-    },
-    {
-      "slug": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "JavaScript",
-      "stars": 35790,
-      "stars_today": 3722,
-      "stars_gained_window": 17460,
-      "days_in_window": 5,
-      "first_seen": "2026-08-27",
-      "days_seen": 5,
-      "sources": [
-        "overall"
-      ]
     },
     {
       "slug": "cathrynlavery/diagram-design",
@@ -1060,19 +963,6 @@
       "sources": []
     },
     {
-      "slug": "openai/codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "stars": 118363,
-      "stars_today": null,
-      "stars_gained_window": 12527,
-      "days_in_window": 9,
-      "first_seen": "2026-06-25",
-      "days_seen": 22,
-      "sources": []
-    },
-    {
       "slug": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
@@ -1083,6 +973,19 @@
       "days_in_window": 6,
       "first_seen": "2026-08-24",
       "days_seen": 6,
+      "sources": []
+    },
+    {
+      "slug": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 118363,
+      "stars_today": null,
+      "stars_gained_window": 12328,
+      "days_in_window": 8,
+      "first_seen": "2026-06-25",
+      "days_seen": 22,
       "sources": []
     },
     {
@@ -1151,55 +1054,47 @@
       "sources": []
     },
     {
-      "slug": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "stars": 17659,
-      "stars_today": null,
-      "stars_gained_window": 7346,
-      "days_in_window": 7,
-      "first_seen": "2026-06-16",
-      "days_seen": 15,
-      "sources": []
-    },
-    {
       "slug": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
-      "stars": 18374,
-      "stars_today": null,
-      "stars_gained_window": 7204,
+      "stars": 33398,
+      "stars_today": 1401,
+      "stars_gained_window": 7285,
       "days_in_window": 4,
       "first_seen": "2026-08-01",
-      "days_seen": 5,
-      "sources": []
-    },
-    {
-      "slug": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars": 236532,
-      "stars_today": null,
-      "stars_gained_window": 7107,
-      "days_in_window": 12,
-      "first_seen": "2026-06-23",
-      "days_seen": 19,
-      "sources": []
+      "days_seen": 6,
+      "sources": [
+        "overall"
+      ]
     },
     {
       "slug": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
-      "stars": 12655,
-      "stars_today": null,
-      "stars_gained_window": 7011,
-      "days_in_window": 4,
+      "stars": 17509,
+      "stars_today": 228,
+      "stars_gained_window": 7239,
+      "days_in_window": 5,
       "first_seen": "2026-06-12",
-      "days_seen": 5,
+      "days_seen": 6,
+      "sources": [
+        "overall",
+        "lang:rust"
+      ]
+    },
+    {
+      "slug": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": 17659,
+      "stars_today": null,
+      "stars_gained_window": 7119,
+      "days_in_window": 6,
+      "first_seen": "2026-06-16",
+      "days_seen": 15,
       "sources": []
     },
     {
@@ -1227,6 +1122,35 @@
       "first_seen": "2026-06-23",
       "days_seen": 18,
       "sources": []
+    },
+    {
+      "slug": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 236532,
+      "stars_today": null,
+      "stars_gained_window": 6632,
+      "days_in_window": 11,
+      "first_seen": "2026-06-23",
+      "days_seen": 19,
+      "sources": []
+    },
+    {
+      "slug": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 40983,
+      "stars_today": 1980,
+      "stars_gained_window": 6556,
+      "days_in_window": 11,
+      "first_seen": "2026-08-04",
+      "days_seen": 11,
+      "sources": [
+        "overall",
+        "lang:python"
+      ]
     },
     {
       "slug": "cloudflare/computer",
@@ -1294,19 +1218,6 @@
       "sources": []
     },
     {
-      "slug": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "stars": 61141,
-      "stars_today": null,
-      "stars_gained_window": 5480,
-      "days_in_window": 3,
-      "first_seen": "2026-07-01",
-      "days_seen": 7,
-      "sources": []
-    },
-    {
       "slug": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
@@ -1320,30 +1231,35 @@
       "sources": []
     },
     {
-      "slug": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "stars": 91025,
-      "stars_today": null,
-      "stars_gained_window": 4909,
-      "days_in_window": 6,
-      "first_seen": "2026-07-15",
-      "days_seen": 13,
-      "sources": []
+      "slug": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 55116,
+      "stars_today": 454,
+      "stars_gained_window": 5145,
+      "days_in_window": 7,
+      "first_seen": "2026-06-23",
+      "days_seen": 14,
+      "sources": [
+        "lang:python"
+      ]
     },
     {
-      "slug": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars": 90793,
-      "stars_today": null,
-      "stars_gained_window": 4842,
-      "days_in_window": 8,
-      "first_seen": "2026-06-11",
-      "days_seen": 17,
-      "sources": []
+      "slug": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 27940,
+      "stars_today": 2824,
+      "stars_gained_window": 5134,
+      "days_in_window": 4,
+      "first_seen": "2026-07-24",
+      "days_seen": 5,
+      "sources": [
+        "overall",
+        "lang:typescript"
+      ]
     }
   ]
 }

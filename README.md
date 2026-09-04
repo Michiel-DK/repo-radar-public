@@ -8,6 +8,12 @@ Personal catalogue of GitHub repos worth borrowing from, with a per-repo write-u
 
 Used as a feeder pool for future project decisions — not a code library.
 
+**Status (2026-09-04).** The automated half runs daily (GitHub Actions, 06:00 UTC: trending
+snapshots under `data/daily/`, terse auto write-ups under `repos/auto/`). The hand-written
+entries at the top level of `repos/` and the digests under `digests/` paused after 2026-07-06
+while the same reading time went into building; the snapshots kept accumulating, so the raw
+signal is current even where the commentary is not.
+
 ## Layout
 
 ```

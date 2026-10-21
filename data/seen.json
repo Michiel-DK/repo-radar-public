@@ -652,23 +652,24 @@
     "slug": "AgriciDaniel/claude-obsidian"
   },
   "AgriciDaniel/claude-seo": {
-    "days_seen": 3,
-    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions, including DataForSEO, Firecrawl, Ahrefs and Matomo.",
+    "days_seen": 4,
+    "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
     "first_seen": "2026-08-09",
     "language": "Python",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:python"
     ],
-    "latest_stars": 18064,
-    "latest_stars_today": 79,
+    "latest_stars": 19492,
+    "latest_stars_today": 191,
     "license": "MIT",
-    "max_stars": 18064,
+    "max_stars": 19492,
     "max_stars_today": 245,
     "seen_dates": [
       "2026-08-09",
       "2026-08-28",
-      "2026-10-01"
+      "2026-10-01",
+      "2026-10-21"
     ],
     "slug": "AgriciDaniel/claude-seo"
   },
@@ -2056,20 +2057,20 @@
     "slug": "ColeMurray/background-agents"
   },
   "Comfy-Org/ComfyUI": {
-    "days_seen": 14,
+    "days_seen": 15,
     "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
     "first_seen": "2026-07-06",
     "language": "Python",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "overall",
       "lang:python"
     ],
-    "latest_stars": 140012,
-    "latest_stars_today": 1011,
+    "latest_stars": 140995,
+    "latest_stars_today": 1206,
     "license": "GPL-3.0",
-    "max_stars": 140012,
-    "max_stars_today": 1011,
+    "max_stars": 140995,
+    "max_stars_today": 1206,
     "seen_dates": [
       "2026-07-06",
       "2026-07-13",
@@ -2084,7 +2085,8 @@
       "2026-09-08",
       "2026-09-24",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "Comfy-Org/ComfyUI"
   },
@@ -2443,25 +2445,26 @@
     "slug": "DIYgod/RSSHub"
   },
   "DataDog/datadog-agent": {
-    "days_seen": 5,
+    "days_seen": 6,
     "description": "Main repository for Datadog Agent",
     "first_seen": "2026-08-07",
     "language": "Go",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 3754,
+    "latest_stars": 3769,
     "latest_stars_today": 0,
     "license": "Apache-2.0",
-    "max_stars": 3754,
+    "max_stars": 3769,
     "max_stars_today": 9,
     "seen_dates": [
       "2026-08-07",
       "2026-09-05",
       "2026-09-26",
       "2026-09-27",
-      "2026-10-04"
+      "2026-10-04",
+      "2026-10-21"
     ],
     "slug": "DataDog/datadog-agent"
   },
@@ -2594,18 +2597,18 @@
     "slug": "Dicklesworthstone/destructive_command_guard"
   },
   "DietrichGebert/ponytail": {
-    "days_seen": 14,
+    "days_seen": 15,
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
     "first_seen": "2026-08-26",
     "language": "JavaScript",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "overall"
     ],
-    "latest_stars": 155186,
-    "latest_stars_today": 1894,
+    "latest_stars": 170210,
+    "latest_stars_today": 1208,
     "license": "MIT",
-    "max_stars": 155186,
+    "max_stars": 170210,
     "max_stars_today": 2845,
     "seen_dates": [
       "2026-08-26",
@@ -2621,7 +2624,8 @@
       "2026-10-02",
       "2026-10-03",
       "2026-10-04",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-21"
     ],
     "slug": "DietrichGebert/ponytail"
   },
@@ -3836,18 +3840,19 @@
     "slug": "GorvGoyl/Clone-Wars"
   },
   "Graphify-Labs/graphify": {
-    "days_seen": 15,
+    "days_seen": 16,
     "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
     "first_seen": "2026-07-09",
     "language": "Python",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
+      "overall",
       "lang:python"
     ],
-    "latest_stars": 129333,
-    "latest_stars_today": 751,
+    "latest_stars": 130578,
+    "latest_stars_today": 802,
     "license": "Apache-2.0",
-    "max_stars": 129333,
+    "max_stars": 130578,
     "max_stars_today": 1851,
     "seen_dates": [
       "2026-07-09",
@@ -3864,7 +3869,8 @@
       "2026-09-04",
       "2026-09-19",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "Graphify-Labs/graphify"
   },
@@ -3982,19 +3988,18 @@
     "slug": "HKUDS/AI-Trader"
   },
   "HKUDS/CLI-Anything": {
-    "days_seen": 15,
+    "days_seen": 16,
     "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
     "first_seen": "2026-06-30",
     "language": "Python",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
-      "overall",
       "lang:python"
     ],
-    "latest_stars": 55399,
-    "latest_stars_today": 606,
+    "latest_stars": 55738,
+    "latest_stars_today": 566,
     "license": "Apache-2.0",
-    "max_stars": 55399,
+    "max_stars": 55738,
     "max_stars_today": 716,
     "seen_dates": [
       "2026-06-30",
@@ -4011,7 +4016,8 @@
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "HKUDS/CLI-Anything"
   },
@@ -4755,6 +4761,25 @@
     ],
     "slug": "Jakubantalik/thinking-orbs"
   },
+  "Jamailar/Beav": {
+    "days_seen": 1,
+    "description": "\u5c0f\u7ea2\u4e66 AI \u8fd0\u8425\u5de5\u4f5c\u53f0\uff5c\u5c0f\u7ea2\u4e66\u91c7\u96c6\u3001\u8bc4\u8bba\u533a\u4e0b\u8f7d\u3001\u7d20\u6750\u5e93\u3001\u9009\u9898\u3001AI\u5199\u4f5c\u3001\u5c0f\u7ea2\u4e66\u5168\u57df\u89e3\u51b3\u65b9\u6848\uff0c\u5f00\u7bb1\u5373\u7528\uff0c\u4e00\u952e\u5b89\u88c5\uff0c\u5c0f\u7ea2\u4e66AI\u5de5\u4f5c\u53f0\uff0c\u81ea\u5a92\u4f53\u7d20\u6750\u5e93\uff0cAI\u5199\u4f5c+\u56fe\u7247\u81ea\u52a8\u7f16\u6392\uff0c\u5c0f\u7ea2\u4e66\u7248OpenClaw\u3001\u81ea\u5a92\u4f53\u8d44\u4ea7\u5e95\u5ea7+AI\u5de5\u4f5c\u53f0\uff0c\u652f\u6301\u5c0f\u7ea2\u4e66\u56fe\u6587+\u5c0f\u7ea2\u4e66\u8bc4\u8bba\u533a\u4e0b\u8f7d\u3001\u5c0f\u7ea2\u4e66AI\u521b\u4f5c\u5de5\u5177\u3001\u81ea\u5a92\u4f53\u7248WorkBuddy\u3001\u6296\u97f3\u3001\u5c0f\u7ea2\u4e66\u722c\u866b\u6570\u636e\u91c7\u96c6",
+    "first_seen": "2026-10-21",
+    "language": "Rust",
+    "last_seen": "2026-10-21",
+    "latest_sources": [
+      "lang:rust"
+    ],
+    "latest_stars": 2102,
+    "latest_stars_today": 26,
+    "license": "NOASSERTION",
+    "max_stars": 2102,
+    "max_stars_today": 26,
+    "seen_dates": [
+      "2026-10-21"
+    ],
+    "slug": "Jamailar/Beav"
+  },
   "JayWebtech/autoshorts": {
     "days_seen": 3,
     "description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.",
@@ -5069,23 +5094,23 @@
     "slug": "Kong/insomnia"
   },
   "Kruk2/jasna": {
-    "days_seen": 2,
+    "days_seen": 3,
     "description": "Video restoration tool",
     "first_seen": "2026-10-19",
     "language": "Python",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
-      "overall",
       "lang:python"
     ],
-    "latest_stars": 3036,
-    "latest_stars_today": 498,
+    "latest_stars": 3273,
+    "latest_stars_today": 441,
     "license": "AGPL-3.0",
-    "max_stars": 3036,
+    "max_stars": 3273,
     "max_stars_today": 498,
     "seen_dates": [
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "Kruk2/jasna"
   },
@@ -5568,19 +5593,19 @@
     "slug": "MODSetter/SurfSense"
   },
   "MadsLorentzen/ai-job-search": {
-    "days_seen": 18,
+    "days_seen": 19,
     "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
     "first_seen": "2026-07-08",
     "language": "Python",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "overall",
       "lang:python"
     ],
-    "latest_stars": 58120,
-    "latest_stars_today": 3856,
+    "latest_stars": 61312,
+    "latest_stars_today": 3861,
     "license": "MIT",
-    "max_stars": 58120,
+    "max_stars": 61312,
     "max_stars_today": 5079,
     "seen_dates": [
       "2026-07-08",
@@ -5600,7 +5625,8 @@
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "MadsLorentzen/ai-job-search"
   },
@@ -5918,25 +5944,26 @@
     "slug": "Mininglamp-OSS/octo-web"
   },
   "ModernRelay/omnigraph": {
-    "days_seen": 5,
-    "description": "Lakehouse native graph engine with git-style workflows",
+    "days_seen": 6,
+    "description": "Object-storage native graph database with branching and typed ontology",
     "first_seen": "2026-07-04",
     "language": "Rust",
-    "last_seen": "2026-07-22",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 950,
-    "latest_stars_today": 27,
+    "latest_stars": 1542,
+    "latest_stars_today": 190,
     "license": "MIT",
-    "max_stars": 950,
-    "max_stars_today": 109,
+    "max_stars": 1542,
+    "max_stars_today": 190,
     "seen_dates": [
       "2026-07-04",
       "2026-07-05",
       "2026-07-06",
       "2026-07-21",
-      "2026-07-22"
+      "2026-07-22",
+      "2026-10-21"
     ],
     "slug": "ModernRelay/omnigraph"
   },
@@ -6431,21 +6458,22 @@
     "slug": "NVIDIA/skills"
   },
   "NVlabs/ASPIRE": {
-    "days_seen": 1,
+    "days_seen": 2,
     "description": "ASPIRE: Agentic /Skills Discovery for Robotics",
     "first_seen": "2026-10-19",
     "language": "Python",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:python"
     ],
-    "latest_stars": 618,
-    "latest_stars_today": 94,
+    "latest_stars": 779,
+    "latest_stars_today": 65,
     "license": "Apache-2.0",
-    "max_stars": 618,
+    "max_stars": 779,
     "max_stars_today": 94,
     "seen_dates": [
-      "2026-10-19"
+      "2026-10-19",
+      "2026-10-21"
     ],
     "slug": "NVlabs/ASPIRE"
   },
@@ -7846,18 +7874,18 @@
     "slug": "Q00/ouroboros"
   },
   "QuantumNous/new-api": {
-    "days_seen": 30,
+    "days_seen": 31,
     "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
     "first_seen": "2026-06-10",
     "language": "Go",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 49908,
-    "latest_stars_today": 81,
+    "latest_stars": 50369,
+    "latest_stars_today": 82,
     "license": "AGPL-3.0",
-    "max_stars": 49908,
+    "max_stars": 50369,
     "max_stars_today": 239,
     "seen_dates": [
       "2026-06-10",
@@ -7889,7 +7917,8 @@
       "2026-10-10",
       "2026-10-11",
       "2026-10-12",
-      "2026-10-14"
+      "2026-10-14",
+      "2026-10-21"
     ],
     "slug": "QuantumNous/new-api"
   },
@@ -8350,22 +8379,23 @@
     "slug": "ScrapeCreators/social-media-research-skills"
   },
   "ScrapeGraphAI/Scrapegraph-ai": {
-    "days_seen": 2,
+    "days_seen": 3,
     "description": "Python scraper based on AI",
     "first_seen": "2026-07-31",
     "language": "Python",
-    "last_seen": "2026-09-03",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:python"
     ],
-    "latest_stars": 30441,
-    "latest_stars_today": 90,
+    "latest_stars": 32056,
+    "latest_stars_today": 56,
     "license": "MIT",
-    "max_stars": 30441,
+    "max_stars": 32056,
     "max_stars_today": 90,
     "seen_dates": [
       "2026-07-31",
-      "2026-09-03"
+      "2026-09-03",
+      "2026-10-21"
     ],
     "slug": "ScrapeGraphAI/Scrapegraph-ai"
   },
@@ -10260,18 +10290,18 @@
     "slug": "Z4nzu/hackingtool"
   },
   "ZSeven-W/openpencil": {
-    "days_seen": 9,
+    "days_seen": 10,
     "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
     "first_seen": "2026-06-29",
     "language": "Rust",
-    "last_seen": "2026-08-19",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 5366,
-    "latest_stars_today": 99,
+    "latest_stars": 6312,
+    "latest_stars_today": 28,
     "license": "MIT",
-    "max_stars": 5366,
+    "max_stars": 6312,
     "max_stars_today": 152,
     "seen_dates": [
       "2026-06-29",
@@ -10282,7 +10312,8 @@
       "2026-08-12",
       "2026-08-17",
       "2026-08-18",
-      "2026-08-19"
+      "2026-08-19",
+      "2026-10-21"
     ],
     "slug": "ZSeven-W/openpencil"
   },
@@ -10616,23 +10647,24 @@
     "slug": "abue-ammar/tinycast"
   },
   "abus-aikorea/voice-pro": {
-    "days_seen": 3,
+    "days_seen": 4,
     "description": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
     "first_seen": "2026-08-02",
     "language": "Python",
-    "last_seen": "2026-08-04",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:python"
     ],
-    "latest_stars": 12027,
-    "latest_stars_today": 46,
+    "latest_stars": 13286,
+    "latest_stars_today": 40,
     "license": "GPL-3.0",
-    "max_stars": 12027,
+    "max_stars": 13286,
     "max_stars_today": 355,
     "seen_dates": [
       "2026-08-02",
       "2026-08-03",
-      "2026-08-04"
+      "2026-08-04",
+      "2026-10-21"
     ],
     "slug": "abus-aikorea/voice-pro"
   },
@@ -11146,18 +11178,18 @@
     "slug": "agent0ai/agent-zero"
   },
   "agentgateway/agentgateway": {
-    "days_seen": 12,
+    "days_seen": 13,
     "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
     "first_seen": "2026-07-15",
     "language": "Rust",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 5164,
-    "latest_stars_today": 16,
+    "latest_stars": 5442,
+    "latest_stars_today": 15,
     "license": "Apache-2.0",
-    "max_stars": 5164,
+    "max_stars": 5442,
     "max_stars_today": 39,
     "seen_dates": [
       "2026-07-15",
@@ -11171,7 +11203,8 @@
       "2026-09-23",
       "2026-09-24",
       "2026-10-03",
-      "2026-10-04"
+      "2026-10-04",
+      "2026-10-21"
     ],
     "slug": "agentgateway/agentgateway"
   },
@@ -11539,20 +11572,19 @@
     "slug": "ajeetdsouza/zoxide"
   },
   "akitaonrails/ai-memory": {
-    "days_seen": 15,
+    "days_seen": 16,
     "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
     "first_seen": "2026-08-18",
     "language": "Rust",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
-      "overall",
       "lang:rust"
     ],
-    "latest_stars": 11544,
-    "latest_stars_today": 666,
+    "latest_stars": 11968,
+    "latest_stars_today": 810,
     "license": "MIT",
-    "max_stars": 11544,
-    "max_stars_today": 666,
+    "max_stars": 11968,
+    "max_stars_today": 810,
     "seen_dates": [
       "2026-08-18",
       "2026-08-19",
@@ -11568,7 +11600,8 @@
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "akitaonrails/ai-memory"
   },
@@ -12518,19 +12551,19 @@
     "slug": "ankitpokhrel/jira-cli"
   },
   "anomalyco/opencode": {
-    "days_seen": 28,
+    "days_seen": 29,
     "description": "The open source coding agent.",
     "first_seen": "2026-06-12",
     "language": "TypeScript",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "overall",
       "lang:typescript"
     ],
-    "latest_stars": 218078,
-    "latest_stars_today": 1311,
+    "latest_stars": 219173,
+    "latest_stars_today": 1240,
     "license": "MIT",
-    "max_stars": 218078,
+    "max_stars": 219173,
     "max_stars_today": 1414,
     "seen_dates": [
       "2026-06-12",
@@ -12560,7 +12593,8 @@
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "anomalyco/opencode"
   },
@@ -12632,17 +12666,16 @@
     "slug": "anthropics/claude-agent-sdk-python"
   },
   "anthropics/claude-code": {
-    "days_seen": 32,
+    "days_seen": 33,
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
     "first_seen": "2026-07-03",
     "language": "TypeScript",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
-      "overall",
       "lang:typescript"
     ],
-    "latest_stars": 152773,
-    "latest_stars_today": 167,
+    "latest_stars": 152681,
+    "latest_stars_today": 494,
     "license": null,
     "max_stars": 152773,
     "max_stars_today": 538,
@@ -12678,7 +12711,8 @@
       "2026-10-08",
       "2026-10-11",
       "2026-10-18",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "anthropics/claude-code"
   },
@@ -12897,18 +12931,19 @@
     "slug": "anthropics/financial-services"
   },
   "anthropics/knowledge-work-plugins": {
-    "days_seen": 12,
+    "days_seen": 13,
     "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "first_seen": "2026-06-10",
     "language": "Python",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-21",
     "latest_sources": [
+      "overall",
       "lang:python"
     ],
-    "latest_stars": 29168,
-    "latest_stars_today": 425,
+    "latest_stars": 30896,
+    "latest_stars_today": 267,
     "license": "Apache-2.0",
-    "max_stars": 29168,
+    "max_stars": 30896,
     "max_stars_today": 766,
     "seen_dates": [
       "2026-06-10",
@@ -12922,7 +12957,8 @@
       "2026-10-09",
       "2026-10-10",
       "2026-10-11",
-      "2026-10-12"
+      "2026-10-12",
+      "2026-10-21"
     ],
     "slug": "anthropics/knowledge-work-plugins"
   },
@@ -13536,18 +13572,18 @@
     "slug": "arcboxlabs/arcbox"
   },
   "argoproj/argo-cd": {
-    "days_seen": 16,
+    "days_seen": 17,
     "description": "Declarative Continuous Deployment for Kubernetes",
     "first_seen": "2026-06-12",
     "language": "Go",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 24425,
+    "latest_stars": 24435,
     "latest_stars_today": 7,
     "license": "Apache-2.0",
-    "max_stars": 24425,
+    "max_stars": 24435,
     "max_stars_today": 83,
     "seen_dates": [
       "2026-06-12",
@@ -13565,7 +13601,8 @@
       "2026-09-09",
       "2026-09-27",
       "2026-10-03",
-      "2026-10-18"
+      "2026-10-18",
+      "2026-10-21"
     ],
     "slug": "argoproj/argo-cd"
   },
@@ -14953,24 +14990,25 @@
     "slug": "bmad-code-org/BMAD-METHOD"
   },
   "bobeff/open-source-games": {
-    "days_seen": 4,
+    "days_seen": 5,
     "description": "A list of open source games.",
     "first_seen": "2026-09-12",
     "language": "Python",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:python"
     ],
-    "latest_stars": 16616,
-    "latest_stars_today": 456,
+    "latest_stars": 16802,
+    "latest_stars_today": 154,
     "license": "CC0-1.0",
-    "max_stars": 16616,
+    "max_stars": 16802,
     "max_stars_today": 456,
     "seen_dates": [
       "2026-09-12",
       "2026-09-17",
       "2026-09-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "bobeff/open-source-games"
   },
@@ -16718,18 +16756,18 @@
     "slug": "cloudflare/quiche"
   },
   "cloudflare/security-audit-skill": {
-    "days_seen": 6,
+    "days_seen": 7,
     "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "first_seen": "2026-09-17",
     "language": "JavaScript",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "overall"
     ],
-    "latest_stars": 26230,
-    "latest_stars_today": 576,
+    "latest_stars": 34672,
+    "latest_stars_today": 1712,
     "license": "MIT",
-    "max_stars": 26230,
+    "max_stars": 34672,
     "max_stars_today": 3607,
     "seen_dates": [
       "2026-09-17",
@@ -16737,7 +16775,8 @@
       "2026-09-19",
       "2026-09-20",
       "2026-09-21",
-      "2026-10-08"
+      "2026-10-08",
+      "2026-10-21"
     ],
     "slug": "cloudflare/security-audit-skill"
   },
@@ -17510,21 +17549,22 @@
     "slug": "craft-ai-agents/craft-agents-oss"
   },
   "croffasia/itsaplan": {
-    "days_seen": 1,
+    "days_seen": 2,
     "description": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.",
     "first_seen": "2026-10-20",
     "language": "TypeScript",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:typescript"
     ],
-    "latest_stars": 1458,
-    "latest_stars_today": 104,
+    "latest_stars": 1668,
+    "latest_stars_today": 114,
     "license": "AGPL-3.0",
-    "max_stars": 1458,
-    "max_stars_today": 104,
+    "max_stars": 1668,
+    "max_stars_today": 114,
     "seen_dates": [
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "croffasia/itsaplan"
   },
@@ -19853,22 +19893,23 @@
     "slug": "elie222/inbox-zero"
   },
   "elie222/rakazo": {
-    "days_seen": 2,
+    "days_seen": 3,
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "first_seen": "2026-10-18",
     "language": "TypeScript",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:typescript"
     ],
-    "latest_stars": 4627,
-    "latest_stars_today": 114,
+    "latest_stars": 4965,
+    "latest_stars_today": 181,
     "license": "Apache-2.0",
-    "max_stars": 4627,
-    "max_stars_today": 153,
+    "max_stars": 4965,
+    "max_stars_today": 181,
     "seen_dates": [
       "2026-10-18",
-      "2026-10-19"
+      "2026-10-19",
+      "2026-10-21"
     ],
     "slug": "elie222/rakazo"
   },
@@ -19949,6 +19990,25 @@
       "2026-07-17"
     ],
     "slug": "embassy-rs/embassy"
+  },
+  "emdash-cms/emdash": {
+    "days_seen": 1,
+    "description": "EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress",
+    "first_seen": "2026-10-21",
+    "language": "TypeScript",
+    "last_seen": "2026-10-21",
+    "latest_sources": [
+      "lang:typescript"
+    ],
+    "latest_stars": 13843,
+    "latest_stars_today": 36,
+    "license": "MIT",
+    "max_stars": 13843,
+    "max_stars_today": 36,
+    "seen_dates": [
+      "2026-10-21"
+    ],
+    "slug": "emdash-cms/emdash"
   },
   "emilk/egui": {
     "days_seen": 8,
@@ -20684,21 +20744,22 @@
     "slug": "f/prompts.chat"
   },
   "fabio-rovai/open-ontologies": {
-    "days_seen": 1,
+    "days_seen": 2,
     "description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
     "first_seen": "2026-10-08",
     "language": "Rust",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 927,
-    "latest_stars_today": 121,
+    "latest_stars": 1170,
+    "latest_stars_today": 56,
     "license": "MIT",
-    "max_stars": 927,
+    "max_stars": 1170,
     "max_stars_today": 121,
     "seen_dates": [
-      "2026-10-08"
+      "2026-10-08",
+      "2026-10-21"
     ],
     "slug": "fabio-rovai/open-ontologies"
   },
@@ -20775,18 +20836,18 @@
     "slug": "facebook/pyrefly"
   },
   "farion1231/cc-switch": {
-    "days_seen": 19,
+    "days_seen": 20,
     "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
     "first_seen": "2026-06-13",
     "language": "Rust",
-    "last_seen": "2026-10-12",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 143006,
-    "latest_stars_today": 385,
+    "latest_stars": 146943,
+    "latest_stars_today": 507,
     "license": "MIT",
-    "max_stars": 143006,
+    "max_stars": 146943,
     "max_stars_today": 994,
     "seen_dates": [
       "2026-06-13",
@@ -20807,7 +20868,8 @@
       "2026-09-12",
       "2026-09-25",
       "2026-10-10",
-      "2026-10-12"
+      "2026-10-12",
+      "2026-10-21"
     ],
     "slug": "farion1231/cc-switch"
   },
@@ -22389,18 +22451,18 @@
     "slug": "ghostfolio/ghostfolio"
   },
   "gin-gonic/gin": {
-    "days_seen": 9,
+    "days_seen": 10,
     "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance\u2014up to 40 times faster\u2014thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
     "first_seen": "2026-06-23",
     "language": "Go",
-    "last_seen": "2026-10-11",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 89306,
-    "latest_stars_today": 15,
+    "latest_stars": 89395,
+    "latest_stars_today": 17,
     "license": "MIT",
-    "max_stars": 89306,
+    "max_stars": 89395,
     "max_stars_today": 22,
     "seen_dates": [
       "2026-06-23",
@@ -22411,7 +22473,8 @@
       "2026-08-06",
       "2026-09-16",
       "2026-10-08",
-      "2026-10-11"
+      "2026-10-11",
+      "2026-10-21"
     ],
     "slug": "gin-gonic/gin"
   },
@@ -22858,18 +22921,18 @@
     "slug": "go-git/go-git"
   },
   "go-gitea/gitea": {
-    "days_seen": 11,
+    "days_seen": 12,
     "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
     "first_seen": "2026-06-14",
     "language": "Go",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 58579,
-    "latest_stars_today": 23,
+    "latest_stars": 58597,
+    "latest_stars_today": 27,
     "license": "MIT",
-    "max_stars": 58579,
+    "max_stars": 58597,
     "max_stars_today": 32,
     "seen_dates": [
       "2026-06-14",
@@ -22882,7 +22945,8 @@
       "2026-08-18",
       "2026-10-02",
       "2026-10-07",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "go-gitea/gitea"
   },
@@ -23048,24 +23112,25 @@
     "slug": "gogs/gogs"
   },
   "goharbor/harbor": {
-    "days_seen": 4,
+    "days_seen": 5,
     "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
     "first_seen": "2026-06-14",
     "language": "Go",
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 29408,
-    "latest_stars_today": 8,
+    "latest_stars": 29580,
+    "latest_stars_today": 9,
     "license": "Apache-2.0",
-    "max_stars": 29408,
+    "max_stars": 29580,
     "max_stars_today": 13,
     "seen_dates": [
       "2026-06-14",
       "2026-07-02",
       "2026-09-16",
-      "2026-09-19"
+      "2026-09-19",
+      "2026-10-21"
     ],
     "slug": "goharbor/harbor"
   },
@@ -23117,18 +23182,18 @@
     "slug": "golang-migrate/migrate"
   },
   "golang/go": {
-    "days_seen": 28,
+    "days_seen": 29,
     "description": "The Go programming language",
     "first_seen": "2026-06-17",
     "language": "Go",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 139179,
-    "latest_stars_today": 136,
+    "latest_stars": 139376,
+    "latest_stars_today": 63,
     "license": "BSD-3-Clause",
-    "max_stars": 139320,
+    "max_stars": 139376,
     "max_stars_today": 424,
     "seen_dates": [
       "2026-06-17",
@@ -23158,7 +23223,8 @@
       "2026-10-07",
       "2026-10-08",
       "2026-10-11",
-      "2026-10-15"
+      "2026-10-15",
+      "2026-10-21"
     ],
     "slug": "golang/go"
   },
@@ -23510,23 +23576,24 @@
     "slug": "google/agents-cli"
   },
   "google/artemis": {
-    "days_seen": 3,
+    "days_seen": 4,
     "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.",
     "first_seen": "2026-10-17",
     "language": "Python",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:python"
     ],
-    "latest_stars": 13068,
-    "latest_stars_today": 597,
+    "latest_stars": 13323,
+    "latest_stars_today": 338,
     "license": "Apache-2.0",
-    "max_stars": 13068,
+    "max_stars": 13323,
     "max_stars_today": 597,
     "seen_dates": [
       "2026-10-17",
       "2026-10-18",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "google/artemis"
   },
@@ -23936,18 +24003,18 @@
     "slug": "goreleaser/goreleaser"
   },
   "gosom/google-maps-scraper": {
-    "days_seen": 9,
+    "days_seen": 10,
     "description": "scrape data  from Google Maps. Extracts data such as the name, address, phone number, website URL, rating,  reviews number, latitude and longitude, reviews,email and more for each place",
     "first_seen": "2026-06-17",
     "language": "Go",
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 6122,
-    "latest_stars_today": 45,
+    "latest_stars": 6681,
+    "latest_stars_today": 40,
     "license": "MIT",
-    "max_stars": 6122,
+    "max_stars": 6681,
     "max_stars_today": 180,
     "seen_dates": [
       "2026-06-17",
@@ -23958,7 +24025,8 @@
       "2026-09-03",
       "2026-09-16",
       "2026-09-25",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-10-21"
     ],
     "slug": "gosom/google-maps-scraper"
   },
@@ -24546,21 +24614,22 @@
     "slug": "harness/harness"
   },
   "harry0703/MangoDisk": {
-    "days_seen": 1,
-    "description": "Safety-first disk cleaner and space analyzer for macOS and Windows, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
+    "days_seen": 2,
+    "description": "Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.",
     "first_seen": "2026-10-08",
     "language": "Rust",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 3826,
-    "latest_stars_today": 32,
+    "latest_stars": 4419,
+    "latest_stars_today": 77,
     "license": "GPL-3.0",
-    "max_stars": 3826,
-    "max_stars_today": 32,
+    "max_stars": 4419,
+    "max_stars_today": 77,
     "seen_dates": [
-      "2026-10-08"
+      "2026-10-08",
+      "2026-10-21"
     ],
     "slug": "harry0703/MangoDisk"
   },
@@ -24842,18 +24911,18 @@
     "slug": "hashicorp/terraform-provider-aws"
   },
   "hashicorp/vault": {
-    "days_seen": 9,
+    "days_seen": 10,
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "first_seen": "2026-06-12",
     "language": "Go",
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 36374,
-    "latest_stars_today": 8,
+    "latest_stars": 36411,
+    "latest_stars_today": 9,
     "license": "NOASSERTION",
-    "max_stars": 36374,
+    "max_stars": 36411,
     "max_stars_today": 13,
     "seen_dates": [
       "2026-06-12",
@@ -24864,7 +24933,8 @@
       "2026-07-22",
       "2026-08-27",
       "2026-09-17",
-      "2026-10-10"
+      "2026-10-10",
+      "2026-10-21"
     ],
     "slug": "hashicorp/vault"
   },
@@ -24931,23 +25001,24 @@
     "slug": "hcengineering/platform"
   },
   "headroomlabs-ai/headroom": {
-    "days_seen": 2,
+    "days_seen": 3,
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
     "first_seen": "2026-10-10",
     "language": "Python",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "overall",
       "lang:python"
     ],
-    "latest_stars": 76380,
-    "latest_stars_today": 310,
+    "latest_stars": 76871,
+    "latest_stars_today": 549,
     "license": "Apache-2.0",
-    "max_stars": 76380,
-    "max_stars_today": 310,
+    "max_stars": 76871,
+    "max_stars_today": 549,
     "seen_dates": [
       "2026-10-10",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "headroomlabs-ai/headroom"
   },
@@ -25000,26 +25071,27 @@
     "slug": "hello245m/free-stockdb"
   },
   "helm/helm": {
-    "days_seen": 6,
+    "days_seen": 7,
     "description": "The Kubernetes Package Manager",
     "first_seen": "2026-06-13",
     "language": "Go",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 30346,
-    "latest_stars_today": 3,
+    "latest_stars": 30352,
+    "latest_stars_today": 10,
     "license": "Apache-2.0",
-    "max_stars": 30346,
-    "max_stars_today": 9,
+    "max_stars": 30352,
+    "max_stars_today": 10,
     "seen_dates": [
       "2026-06-13",
       "2026-06-14",
       "2026-07-26",
       "2026-09-12",
       "2026-10-07",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "helm/helm"
   },
@@ -26348,18 +26420,18 @@
     "slug": "ipfs/kubo"
   },
   "iptv-org/iptv": {
-    "days_seen": 17,
+    "days_seen": 18,
     "description": "Collection of publicly available IPTV channels from all over the world",
     "first_seen": "2026-06-08",
     "language": "TypeScript",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:typescript"
     ],
-    "latest_stars": 141393,
-    "latest_stars_today": 116,
+    "latest_stars": 141750,
+    "latest_stars_today": 206,
     "license": "Unlicense",
-    "max_stars": 141393,
+    "max_stars": 141750,
     "max_stars_today": 2657,
     "seen_dates": [
       "2026-06-08",
@@ -26378,7 +26450,8 @@
       "2026-09-02",
       "2026-09-06",
       "2026-10-05",
-      "2026-10-19"
+      "2026-10-19",
+      "2026-10-21"
     ],
     "slug": "iptv-org/iptv"
   },
@@ -26402,24 +26475,25 @@
     "slug": "isair/jarvis"
   },
   "istio/istio": {
-    "days_seen": 4,
+    "days_seen": 5,
     "description": "Connect, secure, control, and observe services.",
     "first_seen": "2026-06-13",
     "language": "Go",
-    "last_seen": "2026-07-31",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 38313,
+    "latest_stars": 38461,
     "latest_stars_today": 4,
     "license": "Apache-2.0",
-    "max_stars": 38313,
+    "max_stars": 38461,
     "max_stars_today": 6,
     "seen_dates": [
       "2026-06-13",
       "2026-06-14",
       "2026-06-15",
-      "2026-07-31"
+      "2026-07-31",
+      "2026-10-21"
     ],
     "slug": "istio/istio"
   },
@@ -27933,18 +28007,18 @@
     "slug": "kenforthewin/atomic"
   },
   "kenn-io/agentsview": {
-    "days_seen": 14,
+    "days_seen": 15,
     "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. ",
     "first_seen": "2026-06-12",
     "language": "Go",
-    "last_seen": "2026-09-01",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 5693,
-    "latest_stars_today": 47,
+    "latest_stars": 6219,
+    "latest_stars_today": 13,
     "license": "MIT",
-    "max_stars": 5693,
+    "max_stars": 6219,
     "max_stars_today": 530,
     "seen_dates": [
       "2026-06-12",
@@ -27960,7 +28034,8 @@
       "2026-08-16",
       "2026-08-17",
       "2026-08-31",
-      "2026-09-01"
+      "2026-09-01",
+      "2026-10-21"
     ],
     "slug": "kenn-io/agentsview"
   },
@@ -28165,18 +28240,18 @@
     "slug": "kitao/pyxel"
   },
   "knadh/listmonk": {
-    "days_seen": 6,
+    "days_seen": 7,
     "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
     "first_seen": "2026-07-10",
     "language": "Go",
-    "last_seen": "2026-08-17",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 22922,
-    "latest_stars_today": 39,
+    "latest_stars": 23888,
+    "latest_stars_today": 36,
     "license": "AGPL-3.0",
-    "max_stars": 22922,
+    "max_stars": 23888,
     "max_stars_today": 44,
     "seen_dates": [
       "2026-07-10",
@@ -28184,7 +28259,8 @@
       "2026-08-14",
       "2026-08-15",
       "2026-08-16",
-      "2026-08-17"
+      "2026-08-17",
+      "2026-10-21"
     ],
     "slug": "knadh/listmonk"
   },
@@ -28547,18 +28623,18 @@
     "slug": "kubernetes/ingress-nginx"
   },
   "kubernetes/kubernetes": {
-    "days_seen": 19,
+    "days_seen": 20,
     "description": "Production-Grade Container Scheduling and Management",
     "first_seen": "2026-07-04",
     "language": "Go",
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 128335,
-    "latest_stars_today": 24,
+    "latest_stars": 128447,
+    "latest_stars_today": 76,
     "license": "Apache-2.0",
-    "max_stars": 128335,
+    "max_stars": 128447,
     "max_stars_today": 311,
     "seen_dates": [
       "2026-07-04",
@@ -28579,7 +28655,8 @@
       "2026-09-28",
       "2026-10-11",
       "2026-10-15",
-      "2026-10-18"
+      "2026-10-18",
+      "2026-10-21"
     ],
     "slug": "kubernetes/kubernetes"
   },
@@ -29142,18 +29219,18 @@
     "slug": "lanyeeee/bilibili-video-downloader"
   },
   "larksuite/cli": {
-    "days_seen": 18,
+    "days_seen": 19,
     "description": "The official Lark/\u98de\u4e66 CLI tool, maintained by the larksuite team \u2014 built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
     "first_seen": "2026-06-12",
     "language": "Go",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 17665,
-    "latest_stars_today": 19,
+    "latest_stars": 17757,
+    "latest_stars_today": 22,
     "license": "MIT",
-    "max_stars": 17665,
+    "max_stars": 17757,
     "max_stars_today": 116,
     "seen_dates": [
       "2026-06-12",
@@ -29173,7 +29250,8 @@
       "2026-09-22",
       "2026-10-11",
       "2026-10-12",
-      "2026-10-14"
+      "2026-10-14",
+      "2026-10-21"
     ],
     "slug": "larksuite/cli"
   },
@@ -30037,18 +30115,18 @@
     "slug": "longbridge/gpui-component"
   },
   "longbridge/gpui-kit": {
-    "days_seen": 13,
+    "days_seen": 14,
     "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
     "first_seen": "2026-09-05",
     "language": "Rust",
-    "last_seen": "2026-10-16",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 17678,
-    "latest_stars_today": 199,
+    "latest_stars": 18438,
+    "latest_stars_today": 164,
     "license": "NOASSERTION",
-    "max_stars": 17678,
+    "max_stars": 18438,
     "max_stars_today": 202,
     "seen_dates": [
       "2026-09-05",
@@ -30063,7 +30141,8 @@
       "2026-10-03",
       "2026-10-04",
       "2026-10-06",
-      "2026-10-16"
+      "2026-10-16",
+      "2026-10-21"
     ],
     "slug": "longbridge/gpui-kit"
   },
@@ -30353,18 +30432,18 @@
     "slug": "m5stack/StackChan"
   },
   "macro-inc/macro": {
-    "days_seen": 11,
+    "days_seen": 12,
     "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
     "first_seen": "2026-07-04",
     "language": "Rust",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 4482,
-    "latest_stars_today": 18,
+    "latest_stars": 4786,
+    "latest_stars_today": 35,
     "license": "AGPL-3.0",
-    "max_stars": 4482,
+    "max_stars": 4786,
     "max_stars_today": 1239,
     "seen_dates": [
       "2026-07-04",
@@ -30377,7 +30456,8 @@
       "2026-08-14",
       "2026-08-15",
       "2026-08-16",
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-21"
     ],
     "slug": "macro-inc/macro"
   },
@@ -31063,18 +31143,18 @@
     "slug": "mauriceboe/TREK"
   },
   "max-sixty/worktrunk": {
-    "days_seen": 16,
+    "days_seen": 17,
     "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
     "first_seen": "2026-07-26",
     "language": "Rust",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 8757,
-    "latest_stars_today": 64,
+    "latest_stars": 9344,
+    "latest_stars_today": 25,
     "license": "NOASSERTION",
-    "max_stars": 8757,
+    "max_stars": 9344,
     "max_stars_today": 366,
     "seen_dates": [
       "2026-07-26",
@@ -31092,7 +31172,8 @@
       "2026-09-23",
       "2026-10-02",
       "2026-10-03",
-      "2026-10-04"
+      "2026-10-04",
+      "2026-10-21"
     ],
     "slug": "max-sixty/worktrunk"
   },
@@ -32430,21 +32511,22 @@
     "slug": "midudev/libros-programacion-gratis"
   },
   "mifi/lossless-cut": {
-    "days_seen": 1,
+    "days_seen": 2,
     "description": "The swiss army knife of lossless video/audio editing",
     "first_seen": "2026-07-14",
     "language": "TypeScript",
-    "last_seen": "2026-07-14",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:typescript"
     ],
-    "latest_stars": 42063,
-    "latest_stars_today": 31,
+    "latest_stars": 44804,
+    "latest_stars_today": 43,
     "license": "GPL-2.0",
-    "max_stars": 42063,
-    "max_stars_today": 31,
+    "max_stars": 44804,
+    "max_stars_today": 43,
     "seen_dates": [
-      "2026-07-14"
+      "2026-07-14",
+      "2026-10-21"
     ],
     "slug": "mifi/lossless-cut"
   },
@@ -33433,18 +33515,18 @@
     "slug": "mrifqidaffaaditya/WA-AKG"
   },
   "msitarzewski/agency-agents": {
-    "days_seen": 15,
+    "days_seen": 16,
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "first_seen": "2026-06-12",
     "language": "Shell",
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "overall"
     ],
-    "latest_stars": 157976,
-    "latest_stars_today": 623,
+    "latest_stars": 162553,
+    "latest_stars_today": 562,
     "license": "MIT",
-    "max_stars": 157976,
+    "max_stars": 162553,
     "max_stars_today": 3032,
     "seen_dates": [
       "2026-06-12",
@@ -33461,7 +33543,8 @@
       "2026-08-13",
       "2026-08-14",
       "2026-10-06",
-      "2026-10-07"
+      "2026-10-07",
+      "2026-10-21"
     ],
     "slug": "msitarzewski/agency-agents"
   },
@@ -33505,19 +33588,19 @@
     "slug": "mubeng/mubeng"
   },
   "mudler/LocalAI": {
-    "days_seen": 10,
+    "days_seen": 11,
     "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
     "first_seen": "2026-06-29",
     "language": "Go",
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 49628,
-    "latest_stars_today": 29,
+    "latest_stars": 49812,
+    "latest_stars_today": 126,
     "license": "MIT",
-    "max_stars": 49628,
-    "max_stars_today": 51,
+    "max_stars": 49812,
+    "max_stars_today": 126,
     "seen_dates": [
       "2026-06-29",
       "2026-07-08",
@@ -33528,7 +33611,8 @@
       "2026-08-17",
       "2026-09-08",
       "2026-09-28",
-      "2026-10-19"
+      "2026-10-19",
+      "2026-10-21"
     ],
     "slug": "mudler/LocalAI"
   },
@@ -34377,18 +34461,18 @@
     "slug": "netbox-community/netbox"
   },
   "netdata/netdata": {
-    "days_seen": 14,
+    "days_seen": 15,
     "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
     "first_seen": "2026-07-07",
     "language": "Go",
-    "last_seen": "2026-09-14",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 80510,
-    "latest_stars_today": 10,
+    "latest_stars": 81068,
+    "latest_stars_today": 33,
     "license": "GPL-3.0",
-    "max_stars": 80510,
+    "max_stars": 81068,
     "max_stars_today": 51,
     "seen_dates": [
       "2026-07-07",
@@ -34404,7 +34488,8 @@
       "2026-08-26",
       "2026-08-27",
       "2026-09-07",
-      "2026-09-14"
+      "2026-09-14",
+      "2026-10-21"
     ],
     "slug": "netdata/netdata"
   },
@@ -35883,19 +35968,19 @@
     "slug": "openclaw/gogcli"
   },
   "openclaw/openclaw": {
-    "days_seen": 20,
+    "days_seen": 21,
     "description": "The AI that really does things. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
     "first_seen": "2026-07-03",
     "language": "TypeScript",
-    "last_seen": "2026-10-13",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:typescript"
     ],
-    "latest_stars": 391817,
-    "latest_stars_today": 181,
+    "latest_stars": 392704,
+    "latest_stars_today": 585,
     "license": "MIT",
-    "max_stars": 391817,
-    "max_stars_today": 333,
+    "max_stars": 392704,
+    "max_stars_today": 585,
     "seen_dates": [
       "2026-07-03",
       "2026-07-06",
@@ -35916,7 +36001,8 @@
       "2026-09-27",
       "2026-10-01",
       "2026-10-12",
-      "2026-10-13"
+      "2026-10-13",
+      "2026-10-21"
     ],
     "slug": "openclaw/openclaw"
   },
@@ -37055,18 +37141,18 @@
     "slug": "payloadcms/payload"
   },
   "pbakaus/impeccable": {
-    "days_seen": 10,
+    "days_seen": 11,
     "description": "The design language that makes your AI harness better at design.",
     "first_seen": "2026-07-27",
     "language": "Rust",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 83360,
-    "latest_stars_today": 422,
+    "latest_stars": 83995,
+    "latest_stars_today": 601,
     "license": "Apache-2.0",
-    "max_stars": 83360,
+    "max_stars": 83995,
     "max_stars_today": 1171,
     "seen_dates": [
       "2026-07-27",
@@ -37078,7 +37164,8 @@
       "2026-10-04",
       "2026-10-05",
       "2026-10-07",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "pbakaus/impeccable"
   },
@@ -37319,18 +37406,18 @@
     "slug": "pingcap/tidb"
   },
   "pingdotgg/t3code": {
-    "days_seen": 20,
+    "days_seen": 21,
     "description": "",
     "first_seen": "2026-07-13",
     "language": "TypeScript",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:typescript"
     ],
-    "latest_stars": 28665,
-    "latest_stars_today": 298,
+    "latest_stars": 28924,
+    "latest_stars_today": 228,
     "license": "MIT",
-    "max_stars": 28665,
+    "max_stars": 28924,
     "max_stars_today": 490,
     "seen_dates": [
       "2026-07-13",
@@ -37352,7 +37439,8 @@
       "2026-10-06",
       "2026-10-07",
       "2026-10-08",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "pingdotgg/t3code"
   },
@@ -39490,19 +39578,19 @@
     "slug": "rlaope/oh-my-hermes"
   },
   "rmyndharis/OpenWA": {
-    "days_seen": 9,
+    "days_seen": 10,
     "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
     "first_seen": "2026-07-14",
     "language": "TypeScript",
-    "last_seen": "2026-10-14",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:typescript"
     ],
-    "latest_stars": 15448,
-    "latest_stars_today": 70,
+    "latest_stars": 16024,
+    "latest_stars_today": 313,
     "license": "MIT",
-    "max_stars": 15448,
-    "max_stars_today": 168,
+    "max_stars": 16024,
+    "max_stars_today": 313,
     "seen_dates": [
       "2026-07-14",
       "2026-07-21",
@@ -39512,7 +39600,8 @@
       "2026-09-04",
       "2026-10-03",
       "2026-10-13",
-      "2026-10-14"
+      "2026-10-14",
+      "2026-10-21"
     ],
     "slug": "rmyndharis/OpenWA"
   },
@@ -40394,20 +40483,20 @@
     "slug": "ruvnet/RuView"
   },
   "ruvnet/ruflo": {
-    "days_seen": 25,
+    "days_seen": 26,
     "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "first_seen": "2026-07-03",
     "language": "TypeScript",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "overall",
       "lang:typescript"
     ],
-    "latest_stars": 77357,
-    "latest_stars_today": 564,
+    "latest_stars": 77969,
+    "latest_stars_today": 684,
     "license": "MIT",
-    "max_stars": 77357,
-    "max_stars_today": 672,
+    "max_stars": 77969,
+    "max_stars_today": 684,
     "seen_dates": [
       "2026-07-03",
       "2026-07-05",
@@ -40433,7 +40522,8 @@
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "ruvnet/ruflo"
   },
@@ -40501,22 +40591,23 @@
     "slug": "safishamsi/graphify"
   },
   "samber/cc-skills-golang": {
-    "days_seen": 2,
+    "days_seen": 3,
     "description": "\ud83e\uddd1\u200d\ud83c\udfa8 A collection of Golang agentic skills that works",
     "first_seen": "2026-08-13",
     "language": "Go",
-    "last_seen": "2026-09-23",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 3315,
-    "latest_stars_today": 9,
+    "latest_stars": 3534,
+    "latest_stars_today": 7,
     "license": "MIT",
-    "max_stars": 3315,
+    "max_stars": 3534,
     "max_stars_today": 28,
     "seen_dates": [
       "2026-08-13",
-      "2026-09-23"
+      "2026-09-23",
+      "2026-10-21"
     ],
     "slug": "samber/cc-skills-golang"
   },
@@ -41163,20 +41254,20 @@
     "slug": "sherlock-project/sherlock"
   },
   "shiyu-coder/Kronos": {
-    "days_seen": 16,
+    "days_seen": 17,
     "description": "Kronos: A Foundation Model for the Language of Financial Markets",
     "first_seen": "2026-06-15",
     "language": "Python",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "overall",
       "lang:python"
     ],
-    "latest_stars": 41850,
-    "latest_stars_today": 363,
+    "latest_stars": 42464,
+    "latest_stars_today": 733,
     "license": "MIT",
-    "max_stars": 41850,
-    "max_stars_today": 499,
+    "max_stars": 42464,
+    "max_stars_today": 733,
     "seen_dates": [
       "2026-06-15",
       "2026-06-16",
@@ -41193,7 +41284,8 @@
       "2026-09-19",
       "2026-09-20",
       "2026-10-06",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "shiyu-coder/Kronos"
   },
@@ -41239,18 +41331,18 @@
     "slug": "shuvonsec/claude-bug-bounty"
   },
   "shy3130/tick-stock-panel": {
-    "days_seen": 6,
-    "description": "TSP\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u9009\u80a1 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0  | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u6570\u636e\u6e90\u4e0e\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90",
+    "days_seen": 7,
+    "description": "TSP\u81ea\u6258\u7ba1\u3001\u96f6\u8fd0\u7ef4\u7684 A \u80a1\u300c\u81ea\u5efa\u7b56\u7565 + \u76d1\u63a7 + \u56de\u6d4b\u300d\u91cf\u5316\u5de5\u4f5c\u53f0  | LLM\u80fd\u529b\u9a71\u4f7f\u7b56\u7565\u5b9a\u5236+\u4e2a\u80a1\u5206\u6790+\u590d\u76d8 | \u81ea\u7531\u63a5\u5165\u7b2c\u4e09\u65b9\u6570\u636e\u6e90\u4e0e\u4e2a\u6027\u5316\u6269\u5c55\u6570\u636e | \u4e2a\u4eba\u5f00\u6e90",
     "first_seen": "2026-08-23",
     "language": "Python",
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:python"
     ],
-    "latest_stars": 5576,
-    "latest_stars_today": 51,
+    "latest_stars": 6195,
+    "latest_stars_today": 34,
     "license": "MIT",
-    "max_stars": 5576,
+    "max_stars": 6195,
     "max_stars_today": 162,
     "seen_dates": [
       "2026-08-23",
@@ -41258,9 +41350,30 @@
       "2026-08-26",
       "2026-09-26",
       "2026-09-27",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-21"
     ],
     "slug": "shy3130/tick-stock-panel"
+  },
+  "sickn33/agentic-awesome-skills": {
+    "days_seen": 1,
+    "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+    "first_seen": "2026-10-21",
+    "language": "Python",
+    "last_seen": "2026-10-21",
+    "latest_sources": [
+      "overall",
+      "lang:python"
+    ],
+    "latest_stars": 48205,
+    "latest_stars_today": 83,
+    "license": "MIT",
+    "max_stars": 48205,
+    "max_stars_today": 83,
+    "seen_dates": [
+      "2026-10-21"
+    ],
+    "slug": "sickn33/agentic-awesome-skills"
   },
   "siderolabs/talos": {
     "days_seen": 4,
@@ -42165,19 +42278,19 @@
     "slug": "sqlfluff/sqlfluff"
   },
   "stablyai/orca": {
-    "days_seen": 33,
+    "days_seen": 34,
     "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
     "first_seen": "2026-06-23",
     "language": "TypeScript",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "overall",
       "lang:typescript"
     ],
-    "latest_stars": 98636,
-    "latest_stars_today": 1590,
+    "latest_stars": 100112,
+    "latest_stars_today": 1565,
     "license": "MIT",
-    "max_stars": 98636,
+    "max_stars": 100112,
     "max_stars_today": 1590,
     "seen_dates": [
       "2026-06-23",
@@ -42212,7 +42325,8 @@
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "stablyai/orca"
   },
@@ -42505,22 +42619,23 @@
     "slug": "streetwriters/notesnook"
   },
   "strelov1/freehire": {
-    "days_seen": 2,
+    "days_seen": 3,
     "description": "freehire \u2014 the open-source search engine for job seekers",
     "first_seen": "2026-08-18",
     "language": "Go",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 1532,
-    "latest_stars_today": 295,
+    "latest_stars": 1942,
+    "latest_stars_today": 405,
     "license": "MIT",
-    "max_stars": 1532,
-    "max_stars_today": 295,
+    "max_stars": 1942,
+    "max_stars_today": 405,
     "seen_dates": [
       "2026-08-18",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "strelov1/freehire"
   },
@@ -43769,18 +43884,18 @@
     "slug": "therealaleph/MasterHttpRelayVPN-RUST"
   },
   "thesysdev/openui": {
-    "days_seen": 11,
+    "days_seen": 12,
     "description": "The Open Standard for Generative UI",
     "first_seen": "2026-06-08",
     "language": "TypeScript",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:typescript"
     ],
-    "latest_stars": 12275,
-    "latest_stars_today": 401,
+    "latest_stars": 12753,
+    "latest_stars_today": 390,
     "license": "MIT",
-    "max_stars": 12275,
+    "max_stars": 12753,
     "max_stars_today": 401,
     "seen_dates": [
       "2026-06-08",
@@ -43793,7 +43908,8 @@
       "2026-10-10",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "thesysdev/openui"
   },
@@ -45100,22 +45216,23 @@
     "slug": "upstash/context7"
   },
   "urfave/cli": {
-    "days_seen": 2,
+    "days_seen": 3,
     "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
     "first_seen": "2026-10-04",
     "language": "Go",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:go"
     ],
-    "latest_stars": 24295,
-    "latest_stars_today": null,
+    "latest_stars": 24296,
+    "latest_stars_today": 6,
     "license": "MIT",
-    "max_stars": 24295,
-    "max_stars_today": 0,
+    "max_stars": 24296,
+    "max_stars_today": 6,
     "seen_dates": [
       "2026-10-04",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "urfave/cli"
   },
@@ -46198,18 +46315,19 @@
     "slug": "vllm-project/semantic-router"
   },
   "vllm-project/vllm": {
-    "days_seen": 9,
+    "days_seen": 10,
     "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
     "first_seen": "2026-06-13",
     "language": "Python",
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-10-21",
     "latest_sources": [
+      "overall",
       "lang:python"
     ],
-    "latest_stars": 93366,
-    "latest_stars_today": 67,
+    "latest_stars": 94537,
+    "latest_stars_today": 128,
     "license": "Apache-2.0",
-    "max_stars": 93366,
+    "max_stars": 94537,
     "max_stars_today": 178,
     "seen_dates": [
       "2026-06-13",
@@ -46220,7 +46338,8 @@
       "2026-08-14",
       "2026-08-22",
       "2026-08-23",
-      "2026-10-08"
+      "2026-10-08",
+      "2026-10-21"
     ],
     "slug": "vllm-project/vllm"
   },
@@ -47216,25 +47335,27 @@
     "slug": "workweave/router"
   },
   "wshobson/agents": {
-    "days_seen": 5,
+    "days_seen": 6,
     "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
     "first_seen": "2026-06-25",
     "language": "Python",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-21",
     "latest_sources": [
+      "overall",
       "lang:python"
     ],
-    "latest_stars": 40800,
-    "latest_stars_today": 118,
+    "latest_stars": 41338,
+    "latest_stars_today": 93,
     "license": "MIT",
-    "max_stars": 40800,
+    "max_stars": 41338,
     "max_stars_today": 118,
     "seen_dates": [
       "2026-06-25",
       "2026-08-08",
       "2026-09-17",
       "2026-09-27",
-      "2026-10-15"
+      "2026-10-15",
+      "2026-10-21"
     ],
     "slug": "wshobson/agents"
   },
@@ -47345,26 +47466,27 @@
     "slug": "xdevplatform/xurl"
   },
   "xerj-org/xerj": {
-    "days_seen": 6,
+    "days_seen": 7,
     "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
     "first_seen": "2026-10-08",
     "language": "Rust",
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
     "latest_sources": [
       "lang:rust"
     ],
-    "latest_stars": 10704,
-    "latest_stars_today": 671,
+    "latest_stars": 12508,
+    "latest_stars_today": 2660,
     "license": "Apache-2.0",
-    "max_stars": 10704,
-    "max_stars_today": 1648,
+    "max_stars": 12508,
+    "max_stars_today": 2660,
     "seen_dates": [
       "2026-10-08",
       "2026-10-16",
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-20"
+      "2026-10-20",
+      "2026-10-21"
     ],
     "slug": "xerj-org/xerj"
   },
